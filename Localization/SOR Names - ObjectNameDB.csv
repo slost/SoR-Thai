@@ -1,0 +1,365 @@
+STRING_ID,English,Translation,Spanish,Chinese,German,Brazilian,French,Russian,Korean
+TYPE,string,string,string,string,string,string,string,string,string
+AmmoDispenser,Ammo Dispenser,,Dispensador de munición,弹药箱,Munitionsverteiler,Reservatório de Munição,Distributeur de munitions,Раздатчик боеприпасов,탄약 보급기
+AirConditioner,Air Filtration System,,Sistema de filtración de aire,空气过滤系统,Luftfilterungssystem,Sistema de Filtragem de Ar,Système de filtration d'air,Система очистки воздуха,공기 정화 시스템
+Altar,Altar,,Altar,祭坛,Altar,Altar,Autel,Алтарь,제단
+Anvil,Anvil,,Yunque,铁砧,Amboss,Bigorna,Enclume,Наковальня,모루
+ArcadeGame,Arcade Game,,Juego de arcade,街机游戏,Arcade-Spiel,Jogo de Arcade,Borne d'arcade,Аркадная игра,아케이드 게임
+Ash,Ash,,Ceniza,灰烬,Asche,Cinzas,Cendres,Пепел,화산재
+Barbecue,Barbecue,,Barbacoa,烧烤,Grill,Churrasco,Barbecue,Барбекю,바베큐
+BarbedWire,Barbed Wire,,Alambre de púas,铁丝网,Stacheldraht,Arame Farpado,Fil barbelé,Колючая проволока,철조망
+Bars,Bars,,Barras,酒吧,Gitterstäbe,Barras,Barres,Решетка,막대
+BarStool,Bar Stool,,Taburete de bar,高脚凳,Barhocker,Banco de Barra,Tabouret de bar,Барный стул,바 의자
+Bathtub,Bathtub,,Bañera,浴缸,Badewanne,Banheira,Baignoire,Ванна,욕조
+Bed,Bed,,Cama,床,Bett,Cama,Lit,Кровать,침대
+Beehive,Beehive,,Colmena,蜂巢,Bienenstock,Colmeia,Ruche,Улей,벌집
+Billboard,Billboard,,Cartel publicitario,广告牌,Plakatwand,Outdoor,Panneau d’affichage,Рекламный щит,빌보드
+Boulder,Boulder,,Peñasco,巨石,Felsbrocken,Rochedo,Rocher,Валун,볼더
+BulletinBoard,Bulletin Board,,Cartelera de anuncios,公告板,Schwarzes Brett,Quadro de Avisos,Tableau d’affichage,Доска объявлений,게시판
+Bush,Bush,,Arbusto,灌木,Busch,Arbusto,Buisson,Куст,수풀
+Cactus,Cactus,,Cactus,仙人掌,Kaktus,Cacto,Cactus,Кактус,선인장
+Campfire,Campfire,,Fogata,篝火,Lagerfeuer,Fogueira,Feu de camp,Костер,캠프파이어
+CapsuleMachine,Goodie Dispenser,,Dispensador de recompensas,奖励售货机,Warenverteiler,Distribuidor de Brindes,Distributeur d'objets,Раздатчик всякой всячины,사은품 자판기
+Chair,Armchair,,Sillón,扶手椅,Sessel,Poltrona,Fauteuil,Кресло,안락 의자
+Chair2,Chair,,Silla,椅子,Stuhl,Cadeira,Chaise,Кресло,의자
+ChessSet,Chess Set,,Juego de ajedrez,国际象棋,Schachspiel,Jogo de Xadrez,Jeu d'échecs,Шахматы,체스 세트
+ChestBasic,Chest,,Cofre,箱子,Truhe,Baú,Coffre,Сундук,상자
+CloneMachine,Clone Machine,,Máquina para clonar,克隆机器,Klonmaschine,Máquina Clonagem,Machine de clonage,Репликатор,클론 머신
+Column,Column,,Columna,圆柱,Säule,Coluna,Colonne,Колонна,기둥
+Computer,Computer,,Ordenador,计算机,Computer,Computador,Ordinateur,Компьютер,컴퓨터
+ConveyorBelt,Conveyor Belt,,Cinta transportadora,传送带,Förderband,Correia Transportadora,Tapis roulant,Конвейер,컨베이어 벨트
+Crate,Crate,,Cajón,板条箱,Kiste,Caixote,Caisse,Ящик,나무 상자
+Crusher,Crusher,,Trituradora,破碎机,Brecher,Triturador,Écraseur,Отбойник,분쇄기
+DartTrap,Dart Trap,,Trampa de dardos,毒镖陷阱,Pfeilfalle,Armadilha de Dardos,Piège à fléchettes,Ловушка с дротиком,다트 트랩
+Door,Door,,Puerta,门,Tür,Porta,Porte,Дверь,문
+DoorHard,(Steel),,(Acero),（钢）,(Stahl),(Aço),(Acier),(Сталь),(철)
+DoorLocked,(Locked),,(Bloqueado),（尚未打开）,(verschlossen),(Fechado),(Verrouillée),(Закрыто),(잠김)
+DoorHardLocked,(Steel + Locked),,(Acero + bloqueado),（钢 + 尚未打开）,(Stahl + verschlossen),(Aço + Fechado),(Acier + Verrouillée),"(Сталь, закрыто)",(철 + 잠김)
+DoorNoEntry,(Do Not Enter),,(No entrar),（请勿进入）,(Betreten verboten),(Não Entra),(Défense d'entrer),(Не входить),(진입 금지)
+DoorArmed,(Armed),,(Armado),（装有雷管）,(bewaffnet),(Armada),(Piégée),(Взведен),(무장함)
+Dresser,Dresser,,Cómoda,衣橱,Kommode,Cômoda,Armoire,Шкаф,옷장
+Easel,Easel,,Caballete,画架,Staffelei,Cavalete,Chevalet,Мольберт,이젤
+ElectronicsPanel,Electronics Panel,,Panel de circuitos electrónicos,电子设备面板,Elektrobedienungsplatte,Painel de Eletrônicos,Panneau électronique,Электронная панель,전자 제품 패널
+Elevator,Elevator,,Ascensor,电梯,Aufzug,Elevador,Ascenseur,Лифт,엘리베이터
+ElevatorLevelSkip,Mysterious Elevator,,Ascensor misterioso,神秘电梯,Geheimnisvoller Aufzug,Elevador Misterioso,Ascenseur mystérieux,Странный лифт,미스터리한 엘리베이터
+ExitPoint,Exit Point,,Punto de salida,出口点,Ausgangspunkt,Ponto de Saída,Sortie,Точка выхода,종료 지점
+ExplodingBarrel,Exploding Barrel,,Barril explosivo,炸药桶,Explodierendes Fass,Barril Explosivo,Tonneau explosif,Взрывающаяся бочка,폭발하는 배럴
+Fan,Fan,,Ventilador,风扇,Ventilator,Ventilador,Ventilateur,Вентилятор,송풍기
+FileCabinet,File Cabinet,,Gabinete de archivo,档案柜,Aktenschrank,Armario para Arquivo,Classeur,Пожарный шкаф,파일 캐비닛
+FireHydrant,Fire Hydrant,,Boca de incendios,消防栓,Hydrant,Hidrante,Bouche d’incendie,Гидрант,소화전
+Fireplace,Fireplace,,Chimenea,壁炉,Feuerstelle,Lareira,Cheminée,Камин,벽난로
+FireSpewer,Fire Spewer,,Escupidora de fuego,喷火器,Feuerspucker,Cuspidor de Fogo,Cracheur de feu,Огнеплюй,화재 분무기
+FishTank,Fish Tank,,Pecera,鱼缸,Aquarium,Aquário,Aquarium,Аквариум,물고기 탱크
+FlameGrate,Grate,,Rejillas,炉栅,Gitter,Grade,Grille à feu,Решетка,창살
+FlamingBarrel,Flaming Barrel,,Barril en llamas,燃烧桶,Loderndes Fass,Barril em Chamas,Tonneau enflammé,Воспламеняющаяся бочка,불타는 배럴
+Fountain,Fountain,,Fuente,喷泉,Springbrunnen,Fonte,Fontaine,Фонтан,분수
+GasVent,Gas Vent,,Ventilación de gas,排气孔,Gasaustrittsöffnung,Ventilação de Gás,Évacuation de gaz,Вентиляция,가스 배출구
+Generator,Generator,,Generador,发电机,Generator,Gerador,Générateur,Генератор,발전기
+GrandfatherClock,Grandfather Clock,,Reloj antiguo,大座钟,Standuhr,Relógio de Pêndulo,Horloge de grand-père,Старинные часы,할아버지 시계
+Gravestone,Gravestone,,Lápida,墓碑,Grabstein,Lápide,Pierre tombale,Надгробие,묘비
+HotTub,Hot Tub,,Bañera de hidromasaje,热水浴缸,Whirlpool,Banheira de Hidromassagem,Jacuzzi,Джакузи,온수 욕조
+Incinerator,Incinerator,,Incinerador,焚烧炉,Verbrennungsgerät,Incinerador,Incinérateur,Мусоросжигатель,소각로
+IndoorLamp,Lamp,,Lámpara,灯,Lampe,Abajur,Lampe,Лампа,램프
+Jukebox,Jukebox,,Gramola,自动点唱机,Jukebox,Jukebox,Juke-box,Музыкальный автомат,주크박스
+Lamp,Lamp,,Lámpara,灯,Lampe,Abajur,Lampe,Лампа,램프
+Laser,Laser,,Láser,激光,Laser,Laser,Laser,Лазер,레이저
+LaserEmitter,Laser Emitter,,Emisor de láser,激光发射器,Lasersender,Emissor de Laser,Émetteur de laser,Лазерный излучатель,레이저 이미터
+Mattress,Mattress,,Colchón,床垫,Matratze,Colchão,Matelas,Матрац,매트리스
+MeatGrinder,Meat Grinder,,Picadora de carne,绞肉机,Fleischwolf,Moedor de Carne,Hachoir à viande,Мясорубка,고기 가는 기계
+Mine,Mine,,Mina,地雷,Mine,Mina,Mine,Мина,광산
+Piano,Piano,,Piano,钢琴,Klavier,Piano,Piano,Пианино,피아노
+PinballTable,Pinball Table,,Flíper,弹珠台,Flippertisch,Mesa de Pinball,Flipper,Пинбол,핀볼 테이블
+Pipe,Pipe,,Pipa,管道,Rohr,Tubulação,Canalisation,Трубка,파이프
+Plant,Plant,,Planta,植物,Pflanze,Planta,Plante,Растение,식물
+PoolTable,Pool Table,,Mesa de billar,台球桌,Pooltisch,Mesa de Bilhar,Table de billard,Бильярдный стол,당구대
+Puddle,Puddle,,Charco,水坑,Pfütze,Poça,Flaque,Лужа,웅덩이
+RecordPlayer,Record Player,,Gramófono,留声机,Plattenspieler,Toca-Discos,Tourne-disque,Проигрыватель,레코드 플레이어
+Refrigerator,Refrigerator,,Nevera,冰箱,Kühlschrank,Refrigerador,Réfrigérateur,Холодильник,냉장고
+Safe,Safe,,Caja fuerte,保险箱,Tresor,Cofre,Coffre fort,Сейф,금고
+SatelliteDish,Satellite Dish,,Antena parabólica,碟型卫星天线,Satellitenschüssel,Antena Parabólica,Antenne parabolique,Спутниковая тарелка,위성 안테나
+Sculpture,Sculpture,,Escultura,雕塑,Skulptur,Escultura,Sculpture,Скульптура,조각
+Server,Server,,Servidor,服务器,Server,Servidor,Serveur,Сервер,서버
+Shelf,Shelf,,Estante,架子,Regal,Prateleira,Étagère,Полка,선반
+Sign,Sign,,Cartel,标志,Schild,Placa,Panneau,Знак,표지
+SecurityCam,Security Cam,,Cámara de seguridad,监控摄像机,Überwachungskamera,Câmera de Segurança,Caméra de sécurité,Камера слежения,보안 캠
+SlotMachine,Slot Machine,,Tragaperras,老虎机,Münzautomat,Caça-níqueis,Machine à sous,Игровой автомат,슬롯 머신
+Speaker,Speaker,,Altavoz,扬声器,Lautsprecher,Alto-Falante,Haut-parleur,Колонка,스피커
+StartingPoint,Starting Point,,Punto de partida,起始点,Anfangspunkt,Ponto de Partida,Point de départ,Начальная точка,시작 지점
+Statue,Statue,,Estatua,雕像,Statue,Estátua,Statue,Статуя,동상
+Stove,Stove,,Horno,炉子,Herd,Fogão,Cuisinière,Печка,난로
+SwitchBasic,Switch,,Interruptor,开关,Schalter,Interruptor,Interrupteur,Выключатель,스위치
+SwitchFloor,Floor Switch,,Interruptor de planta,楼层开关,Bodenschalter,Interruptor de Chão,Interrupteur au sol,Напольный выключатель,플로어 스위치
+Table,Table,,Mesa,桌子,Tisch,Mesa,Table,Стол,테이블
+TableBig,Big Table,,Mesa grande,大桌子,Großer Tisch,Mesa Grande,Grande table,Большой стол,큰 테이블
+Television,Television,,Televisor,电视机,Fernseher,Televisão,Télévision,Телевизор,TV
+Toilet,Toilet,,Retrete,厕所,Toilette,Vaso Sanitário,Toilettes,Туалет,화장실
+ToolDrawers,Tool Drawers,,Cajones de herramientas,工具橱柜,Werkzeugkisten,Gavetas de Ferramenta,Armoire à outils,Ящики с инструментами,도구 서랍
+Transmogrifier,Transmogrifier,,Máquina transmutadora,Transmogrifier,Transmogrifizierer,,Transmogrifier,Трансмогрифер,Transmogrifier
+TrapDoor,Trap Door,,Escotilla,活板门,Falltür,Alçapão,Trappe,Дверь-ловушка,뚜껑문
+TrashCan,Trash Can,,Bote de basura,垃圾桶,Mülleimer,Lata de Lixo,Poubelle,Мусорный бак,휴지통
+Tree,Tree,,Árbol,树,Baum,Árvore,Arbre,Дерево,나무
+Turntables,Turntables,,Tocadiscos,唱盘,Drehscheiben,Mesas Giratórias,Platines,Диджейский пульт,턴테이블
+Turret,Turret,,Torreta,炮塔,Geschützturm,Torreta,Tourelle,Турель,터릿
+WaterFountain,Water Fountain,,Fuente de agua,饮水机,Wasserfontäne,Fonte de Água,Fontaine à eau,Фонтанчик для питья,냉수기
+Well,Well,,Pozo de agua,水井,Quelle,Poço,Puits,Колодец,우물
+Window,Window,,Ventana,窗户,Fenster,Janela,Fenêtre,Окно,창
+PawnShopMachine,Sell-O-Matic,,Máquina revendedora,自动贩卖机,Verkauf-O-Mat,Robô Vendedor,Borne de vente,Скупщик,자동판매기
+AugmentationBooth,Augmentation Booth,,Cabina de crecimiento,强化亭,Veränderungskabine,Cabine de Aumento,Cabine d'augmentation,Будка модификаций,증강 부스
+ChallengeSetter,Challenger Booth,,Cabina,Challenger Booth,Challenger Booth,Cabine Desafiadora,Cabine de défi,Кабинка,도전자 부스
+WasteBasket,Wastebasket,,Basurero,废纸篓,Papierkorb,Cesta de Lixo,Corbeille à papier,Мусорная корзина,쓰레기통
+WineBarrel,Wine Barrel,,Barril de vino,酒桶,Weinfass,Barril de Vinho,Tonneau de vin,Бочка вина,와인 배럴
+WoodBurningStove,Wood-Burning Stove,,Estufa de leña,木柴火炉,Holzofen,Fogão a Lenha,Cuisinière à bois,Дровяная печь,나무로 태우는 스토브
+Workbench,Workbench,,Banco de trabajo,工作台,Werkbank,Bancada de Trabalho,Établi,Верстак,작업대
+,,,,,,,,,
+BoulderSmall,Boulder,,Peñasco,巨石,Felsbrocken,Rochedo,Rocher,Валун,볼더
+Generator2,Overclocked Generator,,Generador acelerado,超频发电机,Übertakteter Generator,Gerador acelerado,Générateur overclocké,Разогнанный генератор,오버클럭 제너레이터
+FireballSpitter,Fireball Spitter,,Escupidor de bolas de fuego,火球发射器,Feuerball-Speier,Cuspidor de bolas fogo,Cracheur de boules de feu,Огнешаромет,파이어볼 스피터
+SlimeBarrel,Slime Barrel,,Barril de baba,粘液桶,Schleimfass,Barril de lodo,Tonneau de boue,Бочка слизи,슬라임 배럴
+SlimePuddle,Slime Puddle,,Charco de baba,粘液坑,Schleimpfütze,Poça de lodo,Flaque de boue,Лужа слизи,슬라임 퍼들
+MineCart,Mine Cart,,Carro de mina,矿车,Minenlore,Carrinho de mineração,Chariot minier,Вагонетка,지뢰 카트
+SawBlade,Saw Blade,,Hoja de Sierra,锯条,Sägeblatt,Lâmina da serra,Lame de scie,Лезвие пилы,톱날
+Tube,Tube,,Tubo,管,Rohr,Tubo,Tuyau,Труба,튜브
+KillerPlant,Killer Plant,,Planta asesina,杀人植物,Mörderpflanze,Planta assassina,Plante tueuse,Растение-убийца,킬러 플랜트
+Bench,Bench,,Banco,长凳,Bank,Banco,Banc,Скамейка,벤치
+WaterPump,Water Pump,,Bomba de agua,水泵,Wasserpumpe,Bomba d'água,Pompe à eau,Водяной насос,워터 펌프
+Train,Train,,Tren,火车,Zug,Trem,Train,Поезд,기차
+PoliceBox,Police Box,A teleporter through which police officers are sent,Puesto policial,警亭,Polizeikiste,Posto policial,Cabine de police,Полицейская будка,폴리스박스
+PowerBox,Power Box,,Tablero eléctrico,电源箱,Sicherungskasten,Caixa de alimentação,Compteur électrique,Электрический щиток,파워박스
+PlasticSurgeryMachine,Plastic Surgery Machine,,Máquina de cirugía plástica,美容机,Maschine für Plastische Chirurgie,Máquina de cirurgia plástica,Machine à chirurgie plastique,Аппарат пластической хирургии,성형수술 장비
+AlarmButton,Alarm Button,,Botón de alarma,警报按钮,Alarmknopf,Botão de alarme,Bouton d'alarme,Тревожная кнопка,알람 버튼
+VendorCart,Vendor Stand,,Puesto de venta,售货摊,Verkaufsstand,Ponto de Venda,Stand de marchand,Торговый стенд,공급사 스탠드
+Manhole,Manhole,,Boca de alcantarilla,检修孔,Schacht,Bueiro,Bouche d'égout,Люк,맨홀
+ATMMachine,ATM,,Cajero automático,ATM,Geldautomat,Caixa Eletrônico,Distributeur automatique,Банкомат,ATM
+Dumpster,Dumpster,,Contenedor de basura,大垃圾箱,Müllcontainer,Lixeira,Benne à ordures,Мусорный бак,덤스터
+Fire,Fire,,Fuego,火灾,Feuer,Fogo,Feu,Огонь,화재
+,,,,,,,,,
+PoliceBox_Chinese,Super No-Fun Box,,,超无聊的盒子,,,,,
+,,,,,,,,,
+LoadoutMachine,Loadout-O-Matic,,Carga-mático,初始装备贩卖机,Verteiler,Robô de Equipamentos,Distributeur de chargement,Диспенсер,로드아웃-오-매틱
+Desk,Desk,,Escritorio,桌子,Schreibtisch,Escrivaninha,Bureau,Письменный стол,책상
+Podium,Podium,,Podio,讲台,Podium,Pódio,Podium,Подиум,단상
+Turret2,Mega Turret,,Mega torreta,巨型炮塔,Mega-Geschützturm,Mega Torreta,Méga tourelle,Мегатурель,메가 터렛
+,,,,,,,,,
+Apartments,Apartments,,Apartamentos,公寓,Wohnungen,Apartamentos,Appartements,Апартаменты,아파트
+Alley,Alley,,Callejón,小巷,Gasse,Beco,Allée,Аллея,골목
+Arcade,Arcade,,Local de videojuegos,游戏厅,Spielhalle,Arcade,Salle d'arcade,Игровой парк,아케이드
+Arena,Arena,,Campo de juego,竞技场,Arena,Arena,Arène,Арена,아레나
+Armory,Armory,,Armería,军械库,Waffenkammer,Arsenal,Armurerie,Оружейная,무기고
+Bank,Bank,,Banco,银行,Bank,Banco,Banque,Банк,은행
+Bar,Bar,,Bar,酒吧,Bar,Bar,Bar,Бар,술집
+Bathroom,Bathroom,,Cuarto de baño,浴室,Badezimmer,Banheiro,Salle de bain,Ванная комната,욕실
+Bridge,Bridge,,Puente,大桥,Brücke,Ponte,Pont,Мост,다리
+ButcherShop,Butcher Shop,,Carnicería,肉铺,Metzgerei,Açougue,Boucherie,Лавка мясника,정육점
+Casino,Casino,,Casino,赌场,Kasino,Cassino,Casino,Казино,카지노
+Cave,Cave,,Cueva,洞穴,Höhle,Caverna,Cave,Пещера,동굴
+Church,Church,,Iglesia,教堂,Kirche,Igreja,Église,Церковь,교회
+CityHall,City Hall,,Ayuntamiento,市政厅,Rathaus,Câmara Municipal,Mairie,Муниципалитет,시청
+ConstructionSite,Construction Site,,Sitio en construcción,建筑工地,Baustelle,Canteiro de Obras,Chantier de construction,Стройка,건설 현장
+Courthouse,Courthouse,,Palacio de Justicia,法院大楼,Gerichtsgebäude,Tribunal,Palais de justice,Суд,법원
+Crypt,Crypt,,Cripta,地下墓穴,Krypta,Cripta,Crypte,Склеп,지하실
+Cult,Cult,,Culto,邪教聚集地,Kult,Culto,Lieu de culte,Культ,컬트
+Docks,Docks,,Muelles,码头,Hafenanlagen,Docas,Quais,Доки,부두
+DrugDen,Drug Den,,Fumadero de drogas,贩毒窝点,Drogenhöhle,Boca de Fumo,Repaire de drogués,Наркопритон,마약 소굴
+Factory,Factory,,Fábrica,工厂,Fabrik,Fábrica,Usine,Завод,공장
+Farm,Farm,,Granja,农场,Bauernhof,Fazenda,Ferme,Ферма,농장
+FireStation,Fire Station,,Estación de bomberos,消防局,Feuerwache,Corpo de Bombeiros,Caserne de pompiers,Пожарное депо,소방서
+Fortress,Fortress,,Fortaleza,堡垒,Festung,Fortaleza,Forteresse,Крепость,요새
+GarbagePlant,Garbage Plant,,Planta de basura,垃圾厂,Müllverbrennungsanlage,Usina de Lixo,Usine de traitement des ordures,Мусоросжигательный завод,쓰레기 공장
+Graveyard,Graveyard,,Cementerio,墓地,Friedhof,Cemitério,Cimetière,Кладбище,묘지
+GovernmentBuilding,Government Building,,Edificio de gobierno,政府大楼,Regierungsgebäude,Edifício do Governo,Bâtiment gouvernemental,Правительственное здание,정부 건물
+Gym,Gym,,Gimnasio,健身房,Fitnessstudio,Academia,Salle de gym,Спортзал,체육관
+Hideout,Hideout,,Escondite,藏身处,Versteck,Esconderijo,Planque,Убежище,은신처
+Hospital,Hospital,,Hospital,医院,Krankenhaus,Hospital,Hôpital,Больница,병원
+House,House,,Casa,房子,Haus,Casa,Maison,Дом,집
+Lab,Lab,,Laboratorio,实验室,Labor,Laboratório,Laboratoire,Лаборатория,실험실
+Library,Library,,Biblioteca,图书馆,Bibliothek,Biblioteca,Bibliothèque,Библиотека,도서관
+Mall,Mall,,Centro comercial,商场,Einkaufszentrum,Centro Comercial,Centre commercial,Торговый центр,몰
+Marketplace,Marketplace,,Mercado,市场,Marktplatz,Mercado,Marché,Рынок,시장
+MilitaryBase,Military Base,,Base militar,军事基地,Militärstützpunkt,Base Militar,Base militaire,Военная база,군사 기지
+Motel,Motel,,Motel,汽车旅馆,Motel,Motel,Motel,Отель,모텔
+MovieTheater,Movie Theater,,Sala de cine,电影院,Kino,Sala de Cinema,Salle de cinéma,Кинотеатр,극장
+Museum,Museum,,Museo,博物馆,Museum,Museu,Musée,Музей,박물관
+NightClub,Night Club,,Club nocturno,夜总会,Nachtclub,Clube Noturno,Boîte de nuit,Ночной клуб,나이트클럽
+OfficeBuilding,Office Building,,Edificio de oficinas,办公大楼,Bürogebäude,Edifício de Escritórios,Bureaux,Офисное здание,사무실 건물
+PoliceStation,Police Station,,Estación de policía,警察局,Polizeirevier,Delegacia de Polícia,Commissariat,Полицейский участок,경찰서
+Pool,Pool,,Piscina,游泳池,Schwimmbad,Piscina,Piscine,Бассейн,수영장
+PowerPlant,Power Plant,,Planta de energía,发电厂,Kraftwerk,Usina,Centrale électrique,Электростанция,발전소
+Prison,Prison,,Cárcel,监狱,Gefängnis,Prisão,Prison,Тюрьма,교도소
+ResistanceBase,Resistance Base,,Base de la resistencia,抵抗组织基地,Widerstandsbasis,Base da Resistência,Base de la Résistance,База сопротивления,저항군 본부
+Restaurant,Restaurant,,Restaurante,餐厅,Restaurant,Restaurante,Restaurant,Ресторан,레스토랑
+Shack,Shack,,Cabaña,小木屋,Hütte,Cabana,Cabane,Хижина,오두막집
+Shop,Shop,,Tienda,商店,Laden,Loja,Boutique,Магазин,가게
+SlaveShop,Slave Shop,,Tienda de esclavos,奴隶店,Sklavenladen,Loja de Escravos,Boutique d'esclaves,Рынок рабов,노예 상점
+Stadium,Stadium,,Estadio,体育馆,Stadion,Estádio,Stade,Стадион,경기장
+Tunnel,Tunnel,,Túnel,隧道,Tunnel,Túnel,Tunnel,Туннель,터널
+TVStation,Broadcasting Station,,Emisora,广播站,Übertragungsstation,Estação de transmissão,Station de diffusion,Передающая станция,방송국
+Warehouse,Warehouse,,Almacén,仓库,Lager,Armazém,Entrepôt,Склад,창고
+Zoo,Zoo,,Parque zoológico,动物园,Zoo,Zoológico,Zoo,Зоопарк,동물원
+Empty,(Empty),,(Vacío),（空）,(leer),(Vazio),(Vide),(Пусто),(비어 있음)
+,,,,,,,,,
+MilitaryOutpost,Military Outpost,,Puesto militar,军事哨岗,Militärischer Außenposten,Posto militar,Avant-poste militaire,Военная база,밀리터리 아웃포스트
+Greenhouse,Greenhouse,,Invernadero,温室,Gewächshaus,Estufa,Serre,Теплица,그린하우스
+Cabin,Cabin,,Choza,小屋,Hütte,Cabine,Cabane,Хижина,캐빈
+HedgeMaze,Hedge Maze,,Laberinto,树篱迷宫,Heckenlabyrinth,Labirinto verde,Labyrinthe végétal,Лабиринт из живой изгороди,헤지 미로
+Hotel,Hotel,,Hotel,酒店,Hotel,Hotel,Hôtel,Отель,호텔
+DanceClub,Dance Club,,Club de baile,舞蹈俱乐部,Tanzclub,Clube de dança,Discothèque,Танцевальный клуб,댄스 클럽
+IceRink,Ice Rink,,Pista de hielo,溜冰场,Eislaufbahn,Pista de gelo,Patinoire,Каток,아이스 링크
+CityPark,City Park,,Parque urbano,城市公园,Stadtpark,Parque urbano,Parc municipal,Городской парк,시티 파크
+GunShop,Gun Shop,,Tienda de armas,枪店,Waffenladen,Loja de armas,Armurerie,Оружейный магазин,총기 상점
+TrainStation,Train Station,,Estación de tren,火车站,Bahnhof,Estação ferroviária,Gare,Железнодорожный вокзал,기차역
+MusicHall,Music Hall,,Auditorio,音乐厅,Musiksaal,Casa de shows,Music-hall,Мюзик-холл,뮤직홀
+JewelryStore,Jewelry Store,,Joyería,珠宝店,Juweliergeschäft,Joalharia,Bijouterie,Ювелирный магазин,보석상점
+ChokePoint,Choke Point,Section of the city that is impassable due to a police barricade or similar obstacle,Cuello de botella,障碍点,Engpass,Ponto de estrangulamento,Barricade,Непроходимый участок,초크 포인트
+HouseUptown,Uptown House,,Casa de Barrio Privilegiado,住宅楼,Uptown Haus,Casa da parte alta da cidade,Maison de ville,Жилой дом,업타운 하우스
+PrivateClub,Private Club,,Club privado,私人俱乐部,Privatclub,Clube Privado,Club privé,Частный клуб,비공개 클럽
+Bathhouse,Bathhouse,,Casa de baños,澡堂,Badehaus,Balneário,Bains publics,Баня,목욕탕
+Mansion,Mansion,,Mansión,大厦,Anwesen,Mansão,Manoir,Особняк,맨션
+GatedCommunity,Gated Community,,Comunidad privada,封闭社区,Geschlossene Wohnanlage,Condomínio Fechado,Communauté fermée,Закрытый жилой комплекс,게이티드 커뮤니티
+DeportationCenter,Deportation Center,,Centro de deportación,驱逐出境中心,Deportationszentrum,Centro de Deportação,Centre de déportation,Центр депортации,추방 센터
+ConfiscationCenter,Confiscation Center,,Centro de confiscación,没收中心,Beschlagnahmungszentrum,Centro de Confisco,Centre de confiscation,Центр конфискации,압수 센터
+PoliceOutpost,Police Outpost,,Puesto policial,警察哨所,Außenposten der Polizei,Posto Policial,Poste de police,Полицейский пост,경찰 기지
+TargetRange,Target Range,,Polígono de tiro,靶场,Zielbereich,Campo de Tiro,Stand de tir,Стрельбище,목표 범위
+MayorOffice,Mayor's Office,,Oficina del alcalde,市长办公室,Büro des Bürgermeisters,Escritório do Prefeito,Bureau du maire,Офис мэра,시장 집무실
+GuardPost,Guard Post,,Puesto de guardia,警卫岗,Wachposten,Posto de Vigia,Poste de garde,Пост охраны,가드 포스트
+,,,,,,,,,
+,,,,,,,,,
+DrugDen_Chinese,Hangout,,,匪窝,,,,,
+PoliceStation_Chinese,No-Fun Enforcer Station,,,无聊执法站,,,,,
+Prison_Chinese,No-Fun Detention,,,无聊拘留所,,,,,
+,,,,,,,,,
+Hole,Hole,,Agujero,洞,Loch,Buraco,Trou,Дыра,구멍
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+WallsNormal,Normal Walls,,Las paredes normales,普通墙,normaler Walls,Paredes normais,Murs normaux,Нормальные Стены,일반 벽
+WallsWeak,Weak Walls,,Las paredes débiles,弱墙,schwache Wände,Paredes fracas,Murs faibles,Слабые стены,약한 벽
+WallsStrong,Strong Walls,,Paredes fuertes,坚固的城墙,starke Wände,Paredes fortes,Murs forts,Сильные стены,강한 벽
+WallsHideout,Hideout Walls,,Paredes Hideout,藏身墙,Hideout Walls,Hideout Paredes,Murs Hideout,Hideout Стены,은신처 벽
+Border,Border,,Frontera,边界,Rand,Fronteira,Frontière,бордюр,경계
+Glass,Glass,,Vaso,玻璃,Glas,Vidro,Verre,Стакан,유리
+Hedge,Hedge,,Cobertura,树篱,Hecke,Cerca,Haie,Живая изгородь,방지책
+Steel,Steel,,Acero,钢,Stahl,Aço,Acier,Сталь,강철
+Wood,Wood,,Madera,木,Holz,Madeira,Bois,Дерево,나무
+Rug,Rug,,Alfombra,地毯,Teppich,Tapete,Couverture,плед,깔개
+Disposal,Disposal,,Disposición,处置,Verfügung,Disposição,Disposition,выбытие,처분
+SpawnerFloor,Normal 2,,normal 2,正常2,Normal 2,normal 2,normal 2,Обычный 2,일반 2
+Normal,Normal,,Normal,正常,Normal,Normal,Ordinaire,Обычный,표준
+MetalFloor,Metal,,Metal,金属,Metall,Metal,Métal,металл,금속
+PurpleRug,Rug (Purple),,Alfombra (púrpura),地毯（紫色）,Teppich (Purple),Rug (roxo),Tapis (Violet),Ковер (фиолетовый),러그 (퍼플)
+BlueRug,Rug (Blue),,Alfombra (azul),地毯（蓝）,Teppich (blau),Rug (azul),Tapis (Bleu),Ковер (синий),양탄자 (블루)
+DarkBlueRug,Rug (Dark Blue),,Alfombra (azul oscuro),地毯（深蓝色）,Teppich (dunkelblau),Rug (azul escuro),Tapis (bleu foncé),Ковер (темно-синий),러그 (다크 블루)
+GreenRug,Rug (Green),,Alfombra (verde),地毯（绿色）,Teppich (Grün),Rug (verde),Tapis (Vert),Ковер (зеленый),러그 (녹색)
+RedRug,Rug (Red),,Alfombra (rojo),地毯（红）,Teppich (rot),Rug (vermelho),Tapis (Rouge),Ковер (красный),러그 (레드)
+BathroomTile,Bathroom Tile,,Cuarto de baño Azulejos,浴室磁砖,Badezimmer Fliesen,Tile banheiro,Carrelage salle de bains,Плитка,욕실 타일
+Checkerboard,Checkerboard,,Tablero de damas,棋盘,Damebrett,tabuleiro de damas,Damier,шахматная доска,서양 장기판
+Checkerboard2,Checkerboard (Red),,Checkerboard (rojo),棋盘（红）,Schachbrett (rot),Checkerboard (vermelho),Checkerboard (Rouge),Checkerboard (красный),바둑판 (레드)
+OfficeFloor,Office,,Oficina,办公室,Büro,Escritório,Bureau,офис,사무실
+CasinoFloor,Casino,,Casino,赌场,Kasino,cassino,Casino,Казино,카지노
+HideoutFloor,Hideout,,Escondite,巢穴,Versteck,Esconderijo,Cachette,укрытие,은신처
+BankFloor,Bank,,Banco,银行,Bank,Banco,Banque,Банка,은행
+HospitalFloor,Hospital,,Hospital,医院,Krankenhaus,Hospital,Hôpital,больница,병원
+ArmoryFloor,Armory,,Arsenal,军械库,Waffenkammer,Arsenal,Arsenal,оружейный,병기고
+PoliceStationFloor,Police Station,,Estación de policía,警察局,Polizeistation,Delegacia de polícia,Poste de police,Полицейский участок,경찰서
+FactoryFloor,Factory,,Fábrica,厂,Fabrik,Fábrica,Usine,завод,공장
+DrugDenFloor,Drug Den,,Den drogas,毒窟,Drug Des,drogas Den,Drug Den,Drug Den,약물 덴
+PrisonFloor,Prison,,Prisión,监狱,Gefängnis,Prisão,Prison,Тюрьма,감옥
+CaveFloor,Cave,,Cueva,洞穴,Höhle,Caverna,la grotte,пещера,동굴
+DirtFloor,Dirt,,Suciedad,污垢,Schmutz,Sujeira,Saleté,грязь,더러운
+DanceFloor,Dance Floor,,Pista de baile,舞池,Tanzfläche,Pista de dança,Piste de dance,Танцпол,무도 회장
+Posh,Posh,,Elegante,辣妹,Vornehm,elegante,Chic,шикарный,우아한
+WoodClean,Wood (Clean),,Madera (Limpio),伍德（清洁）,Wood (Clean),Madeira (Clean),Bois (Clean),Дерево (Clean),목재 (청소)
+WoodSlats,Wood (Slats),,Madera (listones),木材（板条）,Wood (Brettchen),Wood (Ripas),Bois (Slats),Древесина (Ламели),목재 (칸막이)
+Canal,Canal,,Canal,运河,Kanal,Canal,Canal,канал,운하
+CityParkFloor,City Park,,Parque de la ciudad,城市公园,Stadtpark,Parque da Cidade,Parc de ville,Городской парк,도시 공원
+CleanTiles,Clean Tiles,,azulejos limpios,干净的瓷砖,saubere Fliesen,Telhas limpas,nettoyer les carreaux,Чистые плитки,청소 타일
+DirtyTiles,Dirty Tiles,,Azulejos sucios,脏兮兮的瓷砖,schmutzige Fliesen,Telhas sujas,Carreaux sales,Грязные плитки,더러운 타일
+DanceFloorRaised,Dance Floor (Raised),,Pista de baile (Elevado),舞池（凸起）,Tanzfläche (hoch),Dance Floor (elevado),Dance Floor (Élevé),Танцпол (Воспитанный),댄스 플로어 (제기)
+CleanTilesRaised,Clean Tiles (Raised),,Azulejos limpios (Elevado),干净的瓷砖（凸起）,Saubere Fliesen (Raised),Telhas limpas (elevado),Nettoyer les carreaux (en relief),Чистые плитки (Воспитанный),청소 타일 (제기)
+SmallTiles,Small Tiles,,Azulejos pequeños,小青瓦,kleine Kacheln,Telhas pequenas,carrelage à petits carreaux,Маленькие плитки,작은 타일
+ElectronicPlates,Electronic Plates,,Las placas electrónicas,电子板,elektronische Platten,placas eletrônicas,Plaques électroniques,Электронные Планшеты,전자 판
+SolidPlates,Solid Plates,,Las placas sólidas,实心板,Massivplatten,placas sólidos,Plaques solides,Твердые пластины,솔리드 플레이트
+Facility,Facility,,Instalaciones,设施,Einrichtung,Instalação,Établissement,объект,시설
+MetalPlates,Metal Plates,,Platos de metal,金属板,Metallplatten,Placas de metal,Des plaques métalliques,Металлические пластины,금속 후판
+Muted,Muted Tiles,,Azulejos apagados,静音瓷砖,Gedämpfte Fliesen,Telhas suaves,Carreaux Muted,Приглушенные плитки,음소거 타일
+FlamePit,Flame Pit,,llama Pit,火焰坑,Flamme Pit,chama Pit,Flame Pit,Flame Pit,화염 구덩이
+Water,Water,,Agua,水,Wasser,Água,Eau,вода,물
+Ice,Ice,,Hielo,冰,Eis,Gelo,La glace,лед,빙
+ArenaFloor,Arena (Clear Tile),,Arena (Claro Azulejos),竞技场（清除瓷砖）,Arena (Clear Tile),Arena (Clear Azulejo),Arena (Tile Effacer),Арена (Clear плитка),아레나 (일반 타일)
+BrickIndoor,Brick,,Ladrillo,砖,Backstein,Tijolo,Brique,Кирпич,벽돌
+ClearFloor,Clear,,Claro,明确,klar,Claro,Clair,чистый,명확한
+ClearFloor2,Clear (Owned),,Clear (Propiedad),清除（拥有的）,Clear (Besessen),Limpar (Possuído),Effacer (Possédé),чистый (Принадлежит),클리어 (소유)
+,,,,,,,,,
+ChestGood,Good Chests,,buenas cofres,良好的衣橱,gute Truhen,boas Baús,Les bons Commodes,Хорошая Лари,좋은 가슴
+ImportantObject,Important Objects,,Los objetos importantes,重要的对象,wichtige Objekte,objetos importantes,Objets importants,Важные объекты,중요 객체
+ImportantObjectNoChests,Important Objects (No Chests),,Importantes objetos (No hay cofres),重要的对象（无柜）,Wichtige Objekte (No Truhen),Objetos importantes (Sem Baús),Objets importants (No Chests),Важные объекты (не Лари),중요 개체 (없음 가슴)
+VendingMachine,Vending Machines,,Máquinas expendedoras,自动售货机,Verkaufsautomaten,Máquinas de venda automática,Distributeur automatique,Торговые автоматы,자동 판매기
+EventTriggerFloor,Floor Event Trigger,,Piso evento de disparo,楼事件触发,Boden EreignisauslÓsersystem,Piso Gatilho Evento,Étage événement déclencheur,Пол Trigger Event,바닥 이벤트 트리거
+MovieScreen,Movie Screen,,Pantalla de cine,银幕,Kino Leinwand,Tela de filme,Écran de cinéma,Киноэкран,영화 화면
+,,,,,,,,,
+ExplodingSlimeBarrel,Exploding or Slime Barrel,,Explosión o limo del barril,爆炸或泥桶,Explodieren oder Schlamm-Fass,Explodindo ou Slime Barrel,Explosant ou Slime Barrel,Взрывающиеся или Слизь Barrel,폭발 또는 점액 배럴
+Grate,Grate,,Rallar,炉排,Gitter,Grato,Grille,колосниковая решетка,화상
+Lake,Lake,,lago,湖,See,Lago,Lac,Озеро,호수
+LockdownWall,Lockdown Wall,,Wall bloqueo,锁定墙,Lockdown Wand,Muro Lockdown,Lockdown mur,Lockdown Стена,잠금 벽
+OilSpill,Oil Spill,,Derrame de petróleo,漏油事件,Ölpest,derramamento de petróleo,Marée noire,Разлив нефти,기름 유출
+Tracks,Tracks (Random),,Pistas (Random),曲目（随机）,Tracks (Random),Tracks (Random),Pistes (aléatoire),Дорожки (Random),트랙 (랜덤)
+Tracks1,Tracks (Row 1),,Tracks (fila 1),曲目（第1行）,Track (Zeile 1),Faixas (Fila 1),Pistes (ligne 1),Дорожки (строка 1),트랙 (행 1)
+Tracks2,Tracks (Row 2),,Tracks (fila 2),曲目（行2）,Track (Reihe 2),Faixas (Fila 2),Pistes (ligne 2),Дорожки (строка 2),트랙 (행 2)
+Tracks3,Tracks (Row 3),,Tracks (fila 3),曲目（第3行）,Track (Zeile 3),Faixas (Linha 3),Pistes (ligne 3),Дорожки (строка 3),트랙 (행 3)
+Tracks4,Tracks (Row 4),,Tracks (fila 4),曲目（第4行）,Track (Zeile 4),Faixas (linha 4),Pistes (ligne 4),Дорожки (строка 4),트랙 (행 4)
+Tracks5,Tracks (Row 5),,Tracks (fila 5),曲目（第5行）,Track (Zeile 5),Faixas (linha 5),Pistes (ligne 5),Дорожки (строка 5),트랙 (행 5)
+Tracks6,Tracks (Row 6),,Tracks (fila 6),曲目（第6行）,Track (Reihe 6),Faixas (linha 6),Pistes (ligne 6),Дорожки (строка 6),트랙 (행 6)
+Tracks7,Tracks (Row 7),,Tracks (fila 7),曲目（第7行）,Track (Reihe 7),Faixas (linha 7),Pistes (rangée 7),Дорожки (строка 7),트랙 (행 7)
+Tracks8,Tracks (Row 8),,Tracks (Fila 8),轨道（行8）,Track (Reihe 8),Faixas (linha 8),Pistes (ligne 8),Дорожки (строка 8),트랙 (행 8)
+Tracks9,Tracks (Row 9),,Tracks (Fila 9),曲目（第9行）,Track (Zeile 9),Faixas (linha 9),Pistes (ligne 9),Дорожки (строка 9),트랙 (행 9)
+,,,,,,,,,
+Empty11,Empty 1x1,,1x1 vacía,空的1x1,leere 1x1,1x1 vazio,vide 1x1,Пустой 1x1,빈 × 1
+Empty12,Empty 1x2,,1x2 vacía,空的1x2,leere 1x2,1x2 vazio,vide 1x2,Пустой 1х2,빈 × 2
+Empty22,Empty 2x2,,2x2 vacía,空的2x2,leere 2x2,2x2 vazio,vide 2x2,Пустой 2х2,빈 × 2
+Randomized11,Randomized 1x1,,1x1 aleatorio,随机的1x1,randomisierte 1x1,1x1 randomizados,répartition aléatoire 1x1,Рандомизированное 1x1,무작위 × 1
+Randomized12,Randomized 1x2,,1x2 aleatorio,随机的1x2,randomisierte 1x2,1x2 randomizados,1x2 répartition aléatoire,Рандомизированное 1х2,무작위 × 2
+Randomized22,Randomized 2x2,,2x2 aleatorio,随机的2x2,randomisierte 2x2,2x2 randomizados,2x2 répartition aléatoire,Рандомизированное 2х2,무작위 × 2
+Generic,Generic,,Genérico,通用,Generisch,Genérico,Générique,общий,일반적인
+MayorHouse,Mayor's House,,Casa del Alcalde,市长之家,Bürgermeisterhaus,Casa da Prefeitura,Maison du maire,Дом мэра,시장의 집
+PodiumPark,Podium Park,,podium Parque,平台公园,Podium Park,Podium Parque,Parc podium,Подиум Park,연단 공원
+Pit,Pit,,Pozo,坑,Grube,Cova,Fosse,ямка,피트
+,,,,,,,,,
+BarLight,Bar,,Bar,酒吧,Bar,Barra,Bar,Бар,바
+BarMoodLight,Bar Mood,,barra de estado de ánimo,酒吧心情,Bar Mood,bar Mood,bar Mood,Бар Настроение,바 기분
+DanceFloorLight,Dance Floor,,Pista de baile,舞池,Tanzfläche,Pista de dança,Piste de dance,Танцпол,무도 회장
+CasinoLight,Casino,,Casino,赌场,Kasino,cassino,Casino,Казино,카지노
+ShadyInteriorLight,Shady Interior,,Shady Interior,荫凉的内部,Shady Innen,Shady Interior,Shady intérieur,Shady Интерьер,그늘 인테리어
+ShadyInteriorLightLevel3,Shady Interior (Park),,Sombra interior (Parque),荫凉的内部（园）,Shady Interior (Park),Shady Interior (Park),Shady intérieur (Parc),Shady интерьер (Park),그늘 인테리어 (공원)
+HomeLightVaried,Home (Varied),,Inicio (variado),首页（变化）,Startseite (abwechslungsreich),Home (variado),Accueil (varié),Главная (Разнообразный),홈 (다양)
+PrisonLight,Prison,,Prisión,监狱,Gefängnis,Prisão,Prison,Тюрьма,감옥
+ArenaLight,Arena,,Arena,竞技场,Arena,Arena,Arène,арена,투기장
+PoliceStationLight,Police Station,,Estación de policía,警察局,Polizeistation,Delegacia de polícia,Poste de police,Полицейский участок,경찰서
+CaveLight,Cave,,Cueva,洞穴,Höhle,Caverna,la grotte,пещера,동굴
+MilitaryOutpostLight,Military Outpost,,puesto militar,军事前哨,Military Outpost,Outpost militar,Avant-poste militaire,Военный форпост,군사 전초 기지
+DefaultLight,Default,,Defecto,默认,Standard,Padrão,Défaut,По умолчанию,기본
+RedLight,Red,,rojo,红色,rot,Vermelho,rouge,красный,빨간
+WhiteLight,White,,Blanco,白色,Weiß,Branco,blanc,белый,하얀
+PinkLight,Pink,,Rosado,粉,Rosa,Rosa,Rose,розовый,분홍
+PinkWhiteLight,Pink-White,,Pink-White,粉红色，白色,Rosa-Weiß,Pink-Branco,Rose-Blanc,Розово-белый,핑크 - 화이트
+BlueLight,Blue,,Azul,蓝色,Blau,Azul,Bleu,синий,푸른
+PurpleLight,Purple,,Púrpura,紫色,Lila,Roxa,Violet,Фиолетовый,보라색
+CyanLight,Cyan,,cian,青色,Cyan,Ciano,cyan,Cyan,시안
+GreenLight,Green,,Verde,绿色,Grün,Verde,vert,зеленый,초록
+CyanGreenLight,Cyan-Green,,Cian-verde,青色，绿色,Cyan-Grün,Ciano-Green,Cyan-vert,Cyan-зеленый,시안 그린
+LabLight,Lab,,Laboratorio,实验室,Labor,Lab,Laboratoire,лаборатория,랩
+HomeLight,Home,,Casa,家,Zuhause,Casa,Accueil,Главная,집
+KitchenLight,Kitchen,,Cocina,厨房,Küche,Cozinha,Cuisine,Кухня,부엌
+OfficeLight,Office,,Oficina,办公室,Büro,Escritório,Bureau,офис,사무실
+HospitalLight,Hospital,,Hospital,医院,Krankenhaus,Hospital,Hôpital,больница,병원
+BankLight,Bank,,Banco,银行,Bank,Banco,Banque,Банка,은행
+GraveyardLight,Graveyard,,Cementerio,墓地,Friedhof,Cemitério,Cimetière,Кладбище,묘소
+FarmLight,Farm,,Granja,农场,Bauernhof,Fazenda,Ferme,ферма,농장
+PoolLight,Pool,,Piscina,池,Schwimmbad,Piscina,bassin,Бассейн,풀
+ZooLight,Zoo,,zoo,动物园,Zoo,Jardim zoológico,zoo,Зоопарк,동물원
+PrivateClubLight,Private Club,,club privado,私人会所,Privater Club,Clube privado,Private club,Частный клуб,개인 클럽
+LightBlueLight,Light-Blue,,Azul claro,浅蓝,Hellblau,Azul claro,Bleu clair,Светло-синий,라이트 블루
+FireStationLight,Fire Station,,Estación de bomberos,消防局,Feuerwehr,Corpo de Bombeiros,Caserne de pompiers,Пожарная станция,소방서
+ArenaRingLight,Arena Ring,,Anillo Arena,竞技场戒指,Arena Ring,Arena Anel,Arena Bague,Арена Ring,아레나 링
+LakeLight,Lake,,lago,湖,See,Lago,Lac,Озеро,호수
+MallLight,Mall,,Centro comercial,购物中心,Einkaufszentrum,Shopping,Centre commercial,Торговый центр,쇼핑 센터
+TVStationLight,TV Station,,Estación de televisión,电视台,Fernsehstation,Estação de TV,Chaine de télévision,Телевизионная станция,TV 역
+testobject,xx,,,,,,,,

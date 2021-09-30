@@ -1,0 +1,242 @@
+STRING_ID,English,Translation,Spanish,Chinese,German,Brazilian,French,Russian,Korean
+TYPE,string,string,string,string,string,string,string,string,string
+Money,Money,,Dinero,金钱,Geld,Dinheiro,Argent,Деньги,돈
+BaconCheeseburger,Bacon Cheeseburger,,Hamburguesa con queso y tocino,培根芝士汉堡,Cheeseburger mit Speck,Cheeseburguer de Bacon,Cheeseburger,Чизбургер с беконом,베이컨 치즈버거
+Banana,Banana,,Banana,香蕉,Banane,Banana,Banane,Банан,바나나
+Beer,Beer,,Cerveza,啤酒,Bier,Cerveja,Bière,Пиво,맥주
+FirstAidKit,First Aid Kit,,Botiquín de primeros auxilios,急救药箱,Erstehilfekasten,Kit de Primeiros Socorros,Trousse de premiers soins,Аптечка,구급함
+HamSandwich,Ham Sandwich,,Sándwich de jamón,火腿三明治,Schinkensandwich,Sanduíche de Presunto,Sandwich au jambon,Сэндвич с ветчиной,햄 샌드위치
+Whiskey,Whiskey,,Whisky,威士忌,Whisky,Uísque,Whiskey,Виски,위스키
+Cigarettes,Cigarettes,,Cigarrillos,香烟,Zigaretten,Cigarros,Cigarettes,Сигареты,담배
+Cocaine,Sugar,,Polvo blanco,白粉,Zucker,Pó,Sucre,Сахар,설탕
+Flask,Flask,,Petaca,烧瓶,Flachmann,Balão,Flasque,Фляга,플라스크
+Steroids,Muscly Pill,,Esteroides,大力丸,Muskelpille,Bomba,Pilule gonflette,Таблетка силы,근육 강화제
+Syringe,Syringe,,Jeringa,注射器,Spritze,Seringa,Seringue,Шприц,주사기
+BalletShoes,Ballet Shoes,,Zapatos de ballet,芭蕾舞鞋,Ballettschuhe,Sapatilhas,Chaussons de danse,Пуанты,발레 슈즈
+BraceletStrength,Bracelet of Strength,,Pulsera de fuerza,力量手镯,Stärkearmband,Pulseira da Força,Bracelet de force,Браслет силы,힘의 팔찌
+BulletproofVest,Bulletproof Vest,,Chaleco antibalas,防弹背心,Kugelsichere Weste,Colete à Prova de Balas,Gilet pare-balles,Бронежилет,방탄조끼
+CodPiece,Codpiece,,Coquilla,护阴甲,Schamkapsel,Braguilha,Coque,Гульфик,코드피스
+FireproofSuit,Fireproof Suit,,Traje ignífugo,防火服,Feuerfester Anzug,Traje à Prova de Fogo,Combinaison ignifuge,Огнеупорный костюм,방화복
+GasMask,Gas Mask,,Máscara de gas,防毒面具,Gasmaske,Máscara de Gás,Masque à gaz,Противогаз,가스 마스크
+MoodRing,Mood Ring,,Anillo del humor,心情戒指,Stimmungsring,Anel do Humor,Bague d'humeur,Кольцо настроения,무드 링
+SlaveHelmet,Slave Helmet,,Casco de esclavo,奴隶头盔,Sklavenhelm,Capacete de Escravo,Collier d'esclave,Рабский шлем,노예 헬멧
+SoldierHelmet,Combat Helmet,,Casco de combate,战斗头盔,Gefechtshelm,Capacete de Combate,Casque de combat,Боевой шлем,전투 헬멧
+HardHat,Hard Hat,,Casco,安全帽,Schutzhelm,Capacete,Casque de sécurité,Каска,안전모
+Note,Note,,Nota,笔记本,Notiz,Bilhete,Note,Записка,노트
+Newspaper,Newspaper,,Periódico,报纸,Zeitung,Jornal,Journal,Газета,신문
+Map,Map,,Mapa,地图,Karte,Mapa,Carte,Карта,지도
+BananaPeel,Banana Peel,,Cáscara de banana,香蕉皮,Bananenschale,Casca de Banana,Peau de banane,Банановая кожура,바나나 껍질
+Rag,Rag,,Trapo,抹布,Lappen,Pano,Torchon,Тряпка,걸레
+Rock,Rock,,Roca,岩石,Stein,Pedra,Pierre,Камень,바위
+CigaretteLighter,Cigarette Lighter,,Encendedor,打火机,Feuerzeug,Isqueiro,Briquet,Зажигалка,담배 라이터
+Crowbar,Crowbar,,Barreta,铁撬棍,Brechstange,Pé de Cabra,Pied-de-biche,Монтировка,지렛대
+OilContainer,Oil Container,,Contenedor de aceite,油箱,Ölbehälter,Reservatório de óleo,Bidon d'huile,Емкость для масла,오일 컨테이너
+GrapplingHook,Grappling Hook,,Garfio,抓钩,Wurfanker,Gancho,Grappin,Кошка,갈고리 후크
+HackingTool,Hacking Tool,,Herramienta de hackeo,黑客工具,Hacker-Werkzeug,Ferramenta de Invasão,Outil de piratage,Средство для взлома,해킹 도구
+ItemTeleporter,Item Teleporter,,Teletransportador de objetos,道具传送器,Gegenstandsteleportierer,Teletransportador de Itens,Téléporteur d'objet,Вещевой телепорт,아이템 텔레포터
+Jackhammer,Jackhammer,,Martillo neumático,手提钻,Presslufthammer,Britadeira,Parteau-piqueur,Отбойный молоток,착암용 드릴
+Key,Key,,Llave,钥匙,Schlüssel,Chave,Clé,Ключ,키
+KeyCard,Keycard,,Tarjeta de acceso,钥匙卡,Schlüsselkarte,Cartão de Acesso,Carte magnétique,Магнитная карта,키카드
+Laptop,Laptop,,Ordenador portátil,笔记本电脑,Laptop,Laptop,Ordinateur portable,Ноутбук,노트북
+Lockpick,Lockpick,,Ganzúa,撬锁工具,Dietrich,Gazua,Rossignol,Отмычка,락픽
+MagicLamp,Magic Lamp,,Lámpara mágica,神灯,Wunderlampe,Lâmpada Mágica,Lampe magique,Магическая лампа,요술 램프
+Matches,Matches,,Fósforos,火柴,Streichhölzer,Fósforos,Allumettes,Спички,성냥
+MindReaderDevice,Mind Reader Device,,Dispositivo para leer mentes,读心术设备,Gedankenlesegerät,Dispositivo do Leitor de Mentes,Appareil de lecture des pensées,Устройство для чтения мыслей,마인드 리더 장치
+MiniFridge,Mini Fridge,,Mini nevera,迷你冰箱,Mini-Kühlschrank,Frigobar,Mini réfrigérateur,Мини-холодильник,미니 냉장고
+RemoteControl,Remote Control,,Control remoto,遥控器,Fernbedienung,Controle Remoto,Télécommande,Пульт ДУ,리모컨
+Rope,Rope,,Cuerda,绳子,Seil,Corda,Corde,Веревка,로프
+SafeCombination,Safe Combination,,Combinación de caja fuerte,保险箱密码,Tresor-Kombination,Combinação do Cofre,Combinaison de coffre,Комбинация от сейфа,금고 조합
+SafeCrackingTool,Safe-Cracking Tool,,Herramienta para abrir cajas fuertes,保险箱破解工具,Werkzeug zum Tresor-Knacken,Ferramenta de Arrombamento de Cofre,Foreuse à coffre,Средство для взлома сейфов,금고 털기 도구
+Saw,Saw,,Sierra,锯,Säge,Serra,Scie,Пила,톱
+Shovel,Shovel,,Pala,铲子,Schaufel,Pá,Pelle,Лопата,삽
+Teleporter,Teleporter,,Teletransportador,传送器,Teleportierer,Teletransportador,Téléporteur,Телепорт,텔레포터
+Translator,Translator,,Traductor,翻译机,Übersetzer,Tradutora,Traducteur,Переводчик,번역기
+VisionDetector,Vision Detector,,Detector de visión,视觉检测仪,Visionsdetektor,Detector de Visão,Détecteur de vision,Детектор поля зрения,비전 감지기
+VoodooDoll,Voodoo Doll,,Muñeco vudú,巫毒娃娃,Voodoopuppe,Boneca de Vudu,Poupée vaudou,Кукла Вуду,부두 인형
+Wrench,Wrench,,Llave inglesa,扳手,Schraubenschlüssel,Chave Inglesa,Clé à molette,Разводной ключ,렌치
+ZombieReanimator,Zombie Reanimator,,Reanimador de zombis,僵尸复活设备,Zombie-Reanimateur,Resuscitador de Zumbis,Réanimateur de zombi,Реаниматор зомби,좀비 소생기
+AccuracyMod,Accuracy Mod,,Moderador para mayor precisión,精度调节器,Genauigkeitsmodifikator,Mod de Precisão,Modificateur de précision,Прицел,정확도 조정
+Silencer,Silencer,,Silenciador,消音器,Schalldämpfer,Silenciador,Silencieux,Глушитель,소음기
+BFG,BFG,,Tremenda arma,大只枪,Großes Geschütz,BFG,BFG,Большая пушка,BFG
+FireExtinguisher,Fire Extinguisher,,Extintor,灭火器,Feuerlöscher,Extintor de Incêndio,Extincteur,Огнетушитель,소화기
+Flamethrower,Flamethrower,,Lanzallamas,喷火器,Flammenwerfer,Lança-Chamas,Lance-flammes,Огнемет,화염 방사기
+FreezeRay,Freeze Ray,,Rayo congelador,冷冻射线枪,Einfrierstrahlen,Raio Congelante,Rayon hypothermique,Замораживающий луч,얼음 광선
+GuidedMissileLauncher,Guided Missile Launcher,,Lanzador de misiles guiados,导弹发射装置,Ferngesteuerte Startvorrichtung,Lançador de Mísseis Teleguiados,Lance-missile à guidage,Управляемая ракетница,유도 미사일 발사기
+LeafBlower,Leafblower,,Sopladora de hojas,吹叶机,Laubbläser,Soprador de Folhas,Souffleur à feuilles,Воздуходувка,리프블로어
+MachineGun,Machinegun,,Ametralladora,机枪,Maschinengewehr,Metralhadora,Mitrailleuse,Автомат,기관총
+Pistol,Pistol,,Pistola,手枪,Pistole,Pistola,Pistolet,Пистолет,권총
+RocketLauncher,Rocket Launcher,,Lanzador de cohetes,火箭筒,Raketenwerfer,Lança Foguetes,Lance-roquette,Ракетница,로켓 발사기
+Shotgun,Shotgun,,Escopeta,霰弹枪,Flinte,Espingarda,Fusil à pompe,Дробовик,샷건
+SniperRifle,Sniper Rifle,,Rifle de francotirador,狙击步枪,Scharfschützengewehr,Fuzil de Precisão,Fusil de précision,Снайперка,저격용 소총
+WaterPistol,Water Pistol,,Pistola de agua,玩具水枪,Wasserpistole,Pistola de Água,Pistolet à eau,Водяной пистолет,물총
+Axe,Axe,,Hacha,斧头,Axt,Machado,Hache,Топор,도끼
+BaseballBat,Baseball Bat,,Bate de béisbol,棒球棍,Baseballschläger,Taco de Beisebol,Batte de baseball,Бейсбольная бита,야구 방망이
+Blowtorch,Blowtorch,,Soplete de soldar,焊枪,Lötlampe,Maçarico,Chalumeau,Горелка,블로램프
+Chainsaw,Chainsaw,,Motosierra,电锯,Kettensäge,Serra Elétrica,Tronçonneuse,Бензопила,전기톱
+Fist,Fist,,Puño,拳头,Faust,Punho,Poing,Кулак,주먹
+Knife,Knife,,Cuchillo,匕首,Messer,Faca,Couteau,Нож,나이
+KnockerMelee,Knocker Melee,,Knocker Melee,Knocker Melee,Knocker Melee,Knocker Melee,Knocker Melee,Knocker Melee,Knocker Melee
+PoliceBaton,Police Baton,,Bastón de policía,警棍,Polizeischlagstock,Cacetete,Matraque,Полицейская дубинка,경찰봉
+Sledgehammer,Sledgehammer,,Mazo,大锤,Vorschlaghammer,Marreta,Masse,Кувалда,슬레지해머
+Sword,Sword,,Espada,剑,Schwert,Espada,Épée,Меч,칼
+FlamingSword,Sword (Flaming),,Espada (llameante),剑（火焰）,Schwert (lodernd),Espada (Flamejante),Épée (enflammée),Пылающий меч,칼(불꽃)
+DartPoison,Dart (Poison),,Dardo (venenoso),飞镖（淬毒）,Pfeil (Gift),Dardo (Veneno),Fléchette (poison),Отравленный дротик,다트(독)
+Grenade,Grenade,,Granada,手雷,Granate,Granada,Grenade,Граната,수류탄
+GrenadeEMP,EMP Grenade,,Granada PEM,电磁脉冲手雷,EMP-Granate,Granada PEM,Grenade EMP,ЭМ-граната,전자기 펄스 수류탄
+GrenadeKnocker,Knocker Grenade,,Granada tumbadora,Knocker Grenade,Knocker Grenade,Granada Batedora,Knocker Grenade,Knocker Grenade,Knocker Grenade
+GrenadeDizzy,Dizzy Grenade,,Granada aturdidora,眩晕手雷,Schwindelgranate,Granada Atordoadora,Grenade étourdissante,Ошеломляющая граната,현기증 수류탄
+LandMine,Land Mine,,Mina Terrestre,地雷,Landmine,Mina Terrestre,Mine,Противопехотная мина,지뢰
+MolotovCocktail,Molotov Cocktail,,Cóctel Molotov,燃烧弹,Molotowcocktail,Coquetel Molotov,Cocktail Molotov,Коктейль Молотова,화염병
+StickyMine,Sticky Mine,,Mina pegajosa,黏性地雷,Klebmine,Mina Pegajosa,Mine collante,Мина-липучка,끈적한 광산
+TripMine,Tripmine,,Mina trampa,绊雷,Strauchelmine,Mina de Armadilha,Mine laser,Растяжка,트립마인
+SlaveHelmetRemote,Slave Helmet Remote,,Casco de esclavo remoto,奴隶头盔遥控装置,Fernbedienung Sklavenhelm,Capacete de Escravo Remoto,Télécommande de collier d'esclave,Пульт управления рабским шлемом,원격 노예 헬멧
+RagePoison,Rage Poison,,Veneno de rabia,狂怒毒药,Zornesgift,Veneno da Fúria,Poison de rage,Яд с эффектом бешенства,분노의 독
+HologramItem,Hologram Bigfoot,,Holograma de Pie Grande,全息大脚怪,Bigfoot-Hologramm,Pé Grande Holograma,Bigfoot holographique,Голограмма йети,홀로그램 빅풋
+SkeletonKey,Skeleton Key,,Llave maestra,万能钥匙,Generalschlüssel,Chave-Mestra,Passe-partout,Ключ с черепушкой,해골 키
+ResurrectionShampoo,Resurrection Shampoo,,Champú de resurrección,复活香波,Auferstehungsshampoo,Shampoo de Ressurreição,Shampoing de résurrection,Воскрешающий шампунь,부활 샴푸
+TimeBomb,Time Bomb,,Bomba de tiempo,定时炸弹,Zeitbombe,Bomba-Relógio,Bombe à retardement,Бомба замедленного действия,시한 폭탄
+QuickEscapeTeleporter,Quick Escape Teleporter,,Teleportador de escape rápido,快速逃生传送器,Teleportierer Schnelle Flucht,Teletransportador de Fuga Rápida,Téléporteur d'urgence,Телепорт для быстрого отступления,빠른 탈출 텔레포터
+WindowCutter,Window Cutter,,Cortador de ventanas,破窗工具,Fensterschneider,Cortador de Janela,Coupe-verre,Стеклорез,창 커터
+ChloroformHankie,Chloroform Hankie,,Pañuelo con cloroformo,氯仿手帕,Chloroform-Taschentuch,Lenço com Clorofórmio,Mouchoir chloroformé,Пропитанный хлороформом платок,클로로포름 손수건
+TranquilizerGun,Tranquilizer Gun,,Arma tranquilizante,麻醉枪,Betäubungsgewehr,Pistola de Tranquilizante,Tranquilisant,Ружьё-транквилизатор,마취총
+FoodProcessor,Fud Processor,,Procesador de alimentos,食物加工仪,Küchenmaschine,Processador de Alimentos,Conditionneur de nourriture,Кухонный комбайн,음식물 처리기
+AmmoProcessor,Ammo Processor,,Procesador de munición,弹药加工仪,Munitionsverarbeiter,Processador de Munição,Conditionneur de munitions,Боеприпасный трансформатор,탄약 처리기
+Boombox,Boombox,,Reproductor de música,手提音响,Get­to­blas­ter,Boombox,Boombox,Бумбокс,붐박스
+WarpZoner,Warp Zoner,,Teletransportador de zona,空间扭曲器,Zonenteleportierer,Zona de Dobra,Générateur de tuyaux verts,Зональный телепорт,워프 조너
+PropertyDeed,Property Deed,,Escritura de propiedad,房契,Besitzurkunde,Escritura de Propriedade,Titre de propriété,Свидетельство о собственности,재산 증서
+WallBypasser,Wall Bypasser,,Atravesador de paredes,翻墙工具,Wandumgeher,Desviador de Parede,Passe-muraille,Проход сквозь стену,벽 우회자
+HearingBlocker,EarWarp Whistle,,Ensordecedor,耳障口哨,Hörverzerrungspfeife,Ensurdecedor,Sifflet Beethoven,"Свисток ""Уховертка""",이어워프 휘슬
+LaserBlazer,Laser Blazer,,Chaqueta antiláser,激光外套,Laserblazer,Blazer Anti-Laser,Blouson à lasers,Лазер-шмазер,레이저 블레이저
+SlaveHelmetRemover,Slave Helmet Remover,,Quitacascos de esclavo,奴隶头盔移除器,Sklavenhelmentferner,Removedor de Capacete de Escravo,Clé d'esclave,Инструменты для удаления рабского шлема,노예 헬멧 제거기
+ArmorDurabilityDoubler,Armor Durability Spray,,Aerosol de durabilidad de armadura,盔甲耐久喷雾,Rüstungshaltbarkeitsspray,Spray de Durabilidade de Armadura,Spray de durabilité d'armure,Спрей для укрепления брони,갑옷 내구성 스프레이
+MeleeDurabilityDoubler,Melee Durability Spray,,Aerosol de durabilidad de ataque físico,近战耐久喷雾,Nahkampflebensdauerspray,Spray de Durabilidade de Ataque Físico,Spray de durabilité d'arme,Спрей для укрепления оружия ближнего боя,근접 무기 내구성 스프레이
+CritterUpper,Critter Upper,,Mejora del golpe crítico,暴击增强器,Erhöher kritischer Treffer,Ataque Superio,Super critique,Критический день,크리터 어퍼
+ElectroPill,Electro Pill,,Electropíldora,电击药丸,Elektropille,Pílula Eletro,Pilule électrique,Электро-табл,전기 알약
+Giantizer,Giantizer,,Agigantador,巨人饮料,Riesenwachser,Agigantador,Géantifieur,Гигантователь,자이언타이저
+FourLeafClover,Four-Leaf Clover,,Trébol de cuatro hojas,四叶草,Vierblättriges Kleeblatt,Trevo de Quatro Folhas,Trèfle à quatre feuilles,Четырехлистный клевер,네잎 클로버
+FiveLeafClover,Five-Leaf Clover,,Trébol de cinco hojas,五叶草,Fünfblättriges Kleeblatt,Trevo de Cinco Folhas,Trèfle à cinq feuilles,Пятилистный клевер,다섯잎 클로버
+SixLeafClover,Six-Leaf Clover,,Trébol de seis hojas,六叶草,Sechsblättriges Kleeblatt,Trevo de Seis Folhas,Trèfle à six feuilles,Шестилистный клевер,여섯잎 클로버
+Hypnotizer,Hypnotizer Mark I,,Marca hipnótica I,催眠等级 I,Hypnotisierer Level I,Marca Hipnotizadora I,Hypnotiseur MK1,Гипнотизер Тип 1,최면술사 마크 I
+Hypnotizer2,Hypnotizer Mark II,,Marca hipnótica II,催眠等级 II,Hypnotisierer Level II,Marca Hipnotizadora II,Hypnotiseur MK2,Гипнотизер Тип 2,최면술사 마크 II
+Haterator,Haterator,,Odiador,憎恨仪,Hasserzeuger,Odiador,Hainateur,Излучатель ненависти,헤이터레이터
+StealingGlove,Sticky Glove,,Guante pegajoso,神偷手套,Klebhandschuh,Luva Pegajosa,Gants baladeurs,Липкая перчатка,끈적이 장갑
+FreeItemVoucher,Free Item Voucher,,Vale para artículo gratuito,免费道具兑换券,Gutschein für kostenlose Ware,Vale de Item Grátis,Bon objet gratis,Ваучер на бесплатный предмет,무료 아이템 바우처
+KillProfiter,Kill Profiter,,Ganancia al matar,杀戮奖券,Tötungsgewinn,Ganhe para Matar,Permis de tuer,Заработок убийствами,킬 프로피터
+PowerDrill,Power Drill,,Taladro eléctrico,电钻,Bohrmaschine,Furadeira,Perceuse électrique,Перфоратор,전동 드릴
+KillerThrower,Killer Thrower,,Lanzador asesino,杀手飞镖,Tötungswerfer,Lançador Assassino,Tueur au lancer,Убийственный бросок,킬러 방사기
+CubeOfLampey,Cube of Lampey,,Cubo de lámpara,神灯方块,Lampenwürfel,Cubo de Lampey,Cube de Lampey,Куб Лампи,램피의 큐브
+AmmoStealer,Ammo Stealer,,Arrebatador de municiones,偷弹器,Munitionsdieb,Ladrão de Munição,Voleur de munitions,Воровство боеприпасов,탄약 도둑
+Empty,Empty!,,¡Vacío!,空的！,Leer!,Vazio!,Vide !,Пусто!,비어 있음!
+AugmentationCanister,Augmentation Canister,,Lata de aumento de tamaño,强化罐,Veränderungskanister,Cilindro de Aumento,Cartouche d'amélioration,Модификациюнная колба,증강 캐니스터
+SafeBuster,Safe Buster,,Destructor de cajas fuertes,保险箱克星,Tresor-Knacker,Destruidor de Cofre,Casseur de coffre,Взрыватель для сейфов,금고 버스터
+CircuitBoard,Circuit Board,,Placa de circuito,电路板,Platine,Placa de Circuito,Carte électronique,Печатная плата,회로 보드
+HardDrive,Hard Drive,,Unidad de disco duro,硬盘,Festplatte,Unidade de Disco Rígido,Disque dur,Жесткий диск,하드 드라이브
+Tooth,Tooth,,Diente,牙齿,Zahn,Dente,Dent,Зуб,치아
+Will,Will,,Testamento,遗嘱,Testament,Testamento,Testament,Завещание,유언
+Blueprints,Blueprints,,Planos,蓝图,Entwürfe,Plantas,Plans,Чертежи,청사진
+Evidence,Evidence,,Evidencia,证据,Beweise,Provas,Preuve,Доказательства,증거
+IncriminatingPhoto,Incriminating Photo,,Fotografía incriminatoria,罪证照片,Belastendes Foto,Foto Incriminadora,Photo incriminante,Инкриминирующая фотография,유죄 사진
+SignedBaseball,Signed Baseball,,Bola de béisbol autografiada,签名棒球,Signierter Baseball,Bola de Beisebol Assinada,Balle de baseball signée,Бейсбольный мячик с автографом,서명한 야구공
+MacguffinMuffin,Macguffin Muffin,,Macguffin Muffin,麦高芬松饼,Macguffin-Muffin,Muffin MacGuffin,Muffin Macguffin,Кекс Макгаффин,맥거핀 머핀
+Briefcase,Briefcase,,Maletín,公文包,Aktentasche,Maleta,Porte-documents,Портфель,서류 가방
+Cologne,Cologne,,Colonia,古龙水,Kölnischwasser,Colônia,Eau de cologne,Одеколон,향수
+Shrinker,Shrinker,,Encogedor,缩小仪,Schrumpfer,Encolhedor,Réducteur,Уменьшитель,수축기
+ShrinkRay,Shrink Ray,,Rayo encogedor,缩小射线枪,Schrumpfstrahlen,Raio de Encolher,Rayon réducteur,Уменьшающий луч,수축 광선
+BodyVanisher,Body Vanishing Salt,,Sal para hacer desaparecer el cuerpo,隐身霜,Leichenverschwindsalz,Sal Removedor de Corpo,Sel de disparition,Соль для телесного исчезновения,몸통 소멸 소금
+DoorDetonator,Door Detonator,,Detonador de puertas,破门雷管,Türsprenger,Detonador de Porta,Détonateur de porte,Дверной детонатор,문 기폭 장치
+FriendPhone,Friend Phone,,Teléfono de amigo,友谊电话机,Freunderufer,Telefone de Amigo,Téléphone d'ami,Телефон друга,친구 전화기
+BearTrap,Bear Trap,,Trampa para osos,捕熊夹,Bärenfalle,Armadilha Para Ursos,Piège à ours,Капкан,베어 트랩
+CardboardBox,Cardboard Box,,Caja de cartón,纸板箱,Karton,Caixa de Papelão,Carton,Картонная коробка,골판지 상자
+IdentifyWand,Identify Wand,,Vara de identificación,鉴定魔杖,Identifizierstab,Varinha Identificadora,Baguette d'identification,Палочка-идентификатор,지팡이 식별
+BigBomb,Giant Bomb,,Bomba gigante,巨型炸弹,Riesenbombe,Bomba Gigante,Bombe géante,Гигантская бомба,자이언트 폭탄
+Lunge,Primal Lunge,,Ataque sorpresa,上步突刺,Urüberraschungsangriff,Ataque Surpresa,Ruée primale,Примитивный выпад,주요 찌르기
+WerewolfLunge,Sharp Lunge,,Ataque severo,疾步突刺,Scharfer Überraschungsangriff,Ataque Afiado,Ruée précise,Резкий выпад,날카로운 찌르기
+Handcuffs,Handcuffs,,Esposas,手铐,Handschellen,Algemas,Menottes,Наручники,수갑
+GhostBlaster,Ghost Gibber,,Arma antifantamas,幽灵枪,Geistersprenger,Tagarelice Fantasma,Venti-fantôme,Анти-призрак,고스트 지버
+Charge,Chaaarge,,Caaarga,冲锋,Aaaangriff,Caaarga,Chaaarge,Рыво-ок,충전
+Bite,Bite,,Mordedura,啃咬,Biss,Mordida,Morsure,Укус,물기
+Cocktail,Cocktail,,Cóctel,鸡尾酒,Cocktail,Coquetel,Cocktail,Коктейль,칵테일
+DrinkMixer,Drink Mixer,,Coctelera,调酒器,Getränkemixer,Misturador de Bebida,Mélangeur,Шейкер,드링크 믹서
+PortableSellOMatic,Portable Sell-O-Matic,,Máquina revendedora portátil,便携自动贩卖机,Tragbarer Verkauf-O-Mat,Robô Vendedor Portátil,Borne de vente portable,Портативный скупщик,휴대용 자동판매기
+Joke,Joke,,Broma,笑话,Witz,Piada,Blague,Шутка,농담
+InvisibleLimitedItem,Camouflage,,Camuflaje,伪装,Tarnung,Camuflagem,Camouflage,Камуфляж,위장막
+Possess,Possess,,Poseer,附身,Besitzergreifen,Possuidor,Possession,Вселение,소유
+Depossessor,Possession Stone,,Piedra de posesión,附身灵石,Besitzergreifungsstein,Pedra Possuidora,Pierre de possession,Камень переселения душ,소유 돌
+Toss,Toss,,Arrojar,投掷,Schleudern,Arremessar,Lancer,Бросок,토스
+Shuriken,Shuriken,,Estrella ninja,手里剑,Shuriken,Estrela Ninja,Shuriken,Сюрикен,슈리켄
+PlasmaSword,Plasma Sword,,Espada de plasma,等离子剑,Plasmaschwert,Espada de Plasma,Épée-plasma,Плазменный меч,플라즈마 검
+Necronomicon,Necronomicon,,Necronómicon,死灵之书,Nekronomikon,Necronomicon,Nécronomicon,Некрономикон,네크로노미콘
+ForceField,Force Field,,Campo de fuerza,力场,Kraftfeld,Campo de Força,Champ de force,Силовое поле,역장
+HiringVoucher,Hiring Voucher,,Vale de contratación,招募兑换券,Gutschein zum Einstellen,Vale de Contratação,Bon de recrutement,Ваучер для найма,고용 바우처
+CyanidePill,Cyanide Pill,,Píldora de cianuro,氰化物药丸,Cyanidpille,Pílula de Cianeto,Pilule au cyanure,Капсула с цианидом,청산가리 알약
+KillProfiterAmmo,Kill Ammunizer,,Munición al matar,杀戮弹药奖励器,Tötungsmunitionierer,Munição por Morte,Rechargeur sanguinaire,Кровавые боеприпасы,살해 탄약
+KillProfiterHealth,Kill Healthenizer,,Vampirismo,杀戮生命偷取器,Tötungsgesundheit,Vampirismo,Soigneur sanguinaire,Вампиратор,살해 치료기
+Blindenizer,Blindenizer,,Cegador,致盲器,Blindmacher,Cegador,Aveugleur,Ослепитель,시각 약화기
+ParalyzerTrap,Paralyzer Trap,,Trampa paralizadora,麻痹陷阱,Paralysierfalle,Armadilha Paralisante,Piège paralysant,Ловушка-парализатор,마비 트랩
+WerewolfTransform,Werewolf Transformation,,Transformación en hombre lobo,狼人变身,Werwolfverwandlung,Transformação em Lobisomem,Transformation en garou,Превращение вервольфа,늑대 인간 변환
+TwitchMystery,Mystery,,Misterio,神秘,Mysterium,Mistério,Mystère,Тайна,미스터리
+AcidSpit,Acid Spit,,Escupir ácido,酸液喷吐,Säurespeichel,Cuspidor de Ácido,Jet d'acide,Плевок кислотой,산성 침
+Nugget,Chicken Nugget,,Nugget de pollo,鸡块,Chicken Nugget,Nugget de Frango,Nugget de poulet,Куриный наггетс,치킨 너겟
+Nuggets,Chicken Nuggets,,Nuggets de pollo,鸡块,Chicken Nuggets,Nuggets de Frango,Nuggets de poulet,Куриные наггетсы,치킨 너겟
+StreetCred,StreetCred,,StreetCred,嘻哈小子,Straßenglaubwürdigkeit,StreetCred,StreetCred,StreetCred,StreetCred
+StreetCreds,StreetCreds,,StreetCreds,嘻哈小子,Straßenglaubwürdigkeit,StreetCreds,StreetCreds,Уличная валюта,StreetCreds
+TopHat,Top Hat,,Sombrero de copa,大礼帽,Zylinder,Cartola,Haut de forme,Цилиндр,중산모
+TutorialAbility,Cry Profusely,,Llorar profusamente,嚎啕大哭,Doll weinen,Chorar Copiosamente,Torrent salé,Обильные слезы,실컷 울기
+XRaySpecs,X-Ray Specs,,Gafas con rayos X,透视眼镜,Röntgenbrille,Óculos de Raio-X,Lunettes à rayons X,Рентгеновские очки,X 레이 사양
+ClearAllItems,Clear All,,Borrar Todo,全部清除,Alle löschen,Remover Todos,Réussissez tout,Убрать все,모두 지우기
+,,,,,,,,,
+BearTrapPark,Bear Trap,,Trampa para osos,捕熊夹,Bärenfalle,Armadilha Para Ursos,Piège à ours,Капкан,베어 트랩
+Cannibalize,Cannibalize,,Canibalizar,食尸,Kannibalisieren,Canibalizar,Cannibaliser,Каннибализм,살육
+Fud,Fud,"An items whose name is a play on the word ""food"", meant to be a cheap knockoff of real food",Komida,山寨食物,Fraß,Rango,Bouffe,Хафчик,퍼드
+Taser,Taser,,Pistola paralizante,泰瑟枪,Taser,Taser,Taser,Тазер,테이저
+Enslave,Enslave,,Esclavizar,奴役,Versklaven,Escravo,Réduire en esclavage,Порабощение,노예
+ZombieSpit,Zombie Phlegm,,Flema zombi,僵尸粘液,Zombieschleim,Muco de zumbi,Mollard zombi,Слизь зомби,좀비 플레금
+MayorHat,Mayor's Hat,,Sombrero del alcalde,市长的帽子,Hut des Bürgermeisters,Chapéu do Prefeito,Chapeau du maire,Шляпа мэра,시장의 모자
+MayorBadge,Mayor Visitor's Badge,,Placa de visitante del alcalde,市长访客的徽章,Bürgermeister-Besucherabzeichen,Crachá do Visitante do Prefeito,Badge de visiteur de la mairie,Значок посетителя мэра,시장 방문자의 배지
+ResearchGun,Research Gun,,Arma experimental,实验枪,Forschungsgewehr,Arma Experimental,Flingue expérimental,Экспериментальное оружие,리서치 건
+HotFud,Hot Fud,,Komida caliente,热杂烩,Heißer Fraß,Rango Kente,Bouf chaude,Горячая жрачка,핫 푸드
+MayorEvidence,Record of Evidence,,Registro de evidencia,证据纪录,Beweisprotokoll,Registro de Evidência,Disque de preuves,Протокол доказательств,증거 기록
+WaterCannon,Water Cannon,,Cañón de agua,防暴水枪,Wasserkanone,Canhão de Água,Canon à eau,Водомет,물대포
+ReRollLoadouts,Re-Roll Items,,Volver a sortear artículos,重选物品,Gegenstände neu generieren,Sortear itens novamente,Re-générer les objets,Перебросить предметы,아이템 다시 롤하기
+,,,,,,,,,
+MonkeyBarrel,Monkey Barrel,,Barril de mono,猩猩桶,Affenfass,Barril de Macaco,Baril de singe,Обезьяна баррель,원숭이 배럴
+AmmoCapacityMod,Ammo Stock,,Stock de munición,弹药扩容器,Munitionsvorrat,Estoque de munição,Stock de munitions,Запас патронов,탄약 재고
+RateOfFireMod,Rate of Fire Mod,,Velocidad de fuego Mod,射速增强模组,Feuerrate Mod,Taxa de Mod de Fogo,Taux de feu mod,Скорость огня мод,화염 모드
+BodySwapper,Body Swapper,,Intercambiador de cuerpo,位置交换器,Body Swapper,Swapper do corpo,Body Swapper,Тело Своппер,바디 스와 퍼
+ExplosiveStimulator,Explodevice,,Dispositivo de explosión,引爆装置,Gerät auflösen,Explodir dispositivo,Appareil éclaté,Взорвать устройство,장치 분해
+Fireworks,Fireworks,,Fuegos artificiales,烟花,Feuerwerk,Fogos de artifício,Feux d'artifice,Фейерверк,불꽃
+WalkieTalkie,Walkie Talkie,,Walkie Talkie,警用对讲机,Walkie Talkie,Walkie talkie,Talkie walkie,Walkie Talkie,워키 토키
+MemoryEraser,Memory Mutilator,,Mutilador de memoria,记忆消除器,Gedächtnisverstümmler,Mutilador de memória,Mémoire Mutilator,Мутилятор памяти,메모리 뮤 테이터
+GrenadeWarp,Warp Grenade,,Granada de teletransporte,传送手榴弹,Teleport-Granate,Granada de Teleporte,Téléportation à la grenade,Телепорт Граната,순간 이동 수류탄
+BloodBag,Blood Bag,,Bolsa de sangre,血袋,Blutbeutel,Bolsa de sangue,Une poche de sang,Мешок крови,혈액 주머니
+RubberBulletsMod,Rubber Bullets,,Balas de goma,橡皮子弹,Gummi-Geschosse,Balas de borracha,Des balles en caoutchouc,Резиновые пули,고무 총알
+Antidote,Antidote,,Antídoto,解毒剂,Gegenmittel,Antídoto,Antidote,Антидот,해독제
+BooUrn,Boo-Urn,,Urna fantasma,幽灵瓮,Ghost Urn,Urna Fantasma,Urne Fantôme,Урна-призрак,유령 항아리
+Revolver,Revolver,,Revólver,左轮手枪,Revolver,Revólver,Revolver,Револьвер,리볼버
+,,,,,,,,,
+PoliceBaton_Chinese,No-Fun Stick,,,无聊棍棒,,,,,
+SlaveHelmet_Chinese,Servant Helmet,,,仆人头盔,,,,,
+SlaveHelmetRemote_Chinese,Servant Helmet Remote,,,仆人盔遥控装置,,,,,
+Cigarettes_Chinese,Cough Sticks,,,咳嗽的烟卷,,,,,
+Syringe_Chinese,Wacky Needle,,,古怪的针头,,,,,
+CigaretteLighter_Chinese,Lighter,,,打火机,,,,,
+Cannibalize_Chinese,Ingest Health,,,摄取活力,,,,,
+Enslave_Chinese,Capture,,,俘获,,,,,
+ZombieSpit_Chinese,Diseased Spit,,,痨病鬼的口水,,,,,
+,,,,,,,,,
+,,,,,,,,,
+PowerSap,Power Sap,,Descarga de energía,电力吸耗,E-Saft,Seiva de Energia,Absorption d'énergie,Кража энергии,동력 흡수
+BodyguardTether,Electro Tether Vest,,Chaleco electrovinculante,电击背心,E-Gurt-Weste,Colete de Eletrocabo,Gilet électro-connecteur,Электрожилет,전자 사슬 조끼
+BloodTransfusionKit,Blood Transfusion Kit,,Kit de transfusión sanguínea,输血工具包,Bluttransfusions-Kit,Kit de Transfusão de Sangue,Kit de transfusion sanguine,Система переливания крови,수혈 키트
+Stomp,Stomp,,Pisotón,踩踏,Stampfen,Pisada,Piétinement,Топот,짓밟기
+DeliveryApp,Delivery App,,App de repartos,配送应用,Liefer-App,Aplicativo de Entrega,Appli de livraison,Приложение службы доставки,배달 어플
+CourierPackage,Courier Package,,Paquete de repartidor,快递包裹,Kurierpaket,Pacote de Entregador,Paquet de livreur,Посылка,배달 패키지
+CourierPackageBroken,Courier Package (Shook Up),,Paquete de repartidor (roto),快递包裹（破损）,Kurierpaket (geschüttelt),Pacote de Entregador (Amassado),Paquet de livreur (secoué),Посылка (Мятая),배달 패키지 (충격 받음)
+MindControl,Mind Control,,Control mental,精神控制,Gedankenkontrolle,Controle da Mente,Contrôle mental,Контроль разума,정신 지배
+BombMaker,Bomb Processor,,Procesador de bombas,炸弹处理器,Bombenprozessor,Processador de Bomba,Processeur de bombe,Преобразователь бомб,폭탄 제작기
+BombTrigger,Remote Bomb Trigger,,Detonador,远程炸弹引爆器,Auslöser für Fernzündbombe,Gatilho de Bomba Remota,Déclencheur à distance,Пульт управления бомбой,원격 폭탄 트리거
+RemoteBomb,Remote Bomb,,Bomba por control remoto,远程炸弹,Fernzündbombe,Bomba Remota,Bombe télécommandée,Дистанционная бомба,원격 폭탄
+LaserGun,Laser Cannon,,Cañón láser,激光炮,Laserkanone,Canhão a Laser,Canon laser,Лазерная пушка,레이저 캐논
+MechTransform,Ride Mech,,Montar en Mecarobot,骑乘机甲,Mech fahren,Pilotar Meca,Contrôle de mecha,Управление роботом,메카 탑승
+MechTransformItem,Mech Key,,Llave del Mecarobot,机甲钥匙,Mech-Schlüssel,Chave de Meca,Clé de mecha,Механический ключ,메카 열쇠
+testitem,xx,,,,,,,,

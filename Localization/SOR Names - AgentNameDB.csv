@@ -1,0 +1,125 @@
+STRING_ID,English,Translation,Spanish,Chinese,German,Brazilian,French,Russian,Korean
+TYPE,string,string,string,string,string,string,string,string,string
+Playerr,Player,ผู้เล่น,Jugador,玩家,Spieler,Jogador,Joueur,Игрок,플레이어
+Actor,Actor,นักแสดง,Actor,演员,Schauspieler,Ator,Acteur,Актер,배우
+Alien,Alien,เอเลี่ยน,Alienígena,外星人,Alien,Extraterrestre,Extraterrestre,Пришелец,외계인
+Artist,Artist,ศิลปิน,Artista,艺术家,Künstler,Artista,Artiste,Артист,아티스트
+Assassin,Assassin,นักฆ่า,Asesino,刺客,Attentäter,Assassino,Assassin,Ассассин,암살자
+Athlete,Jock,นักกีฬา,Deportista,运动员,Sportler,Atleta,Sportif,Качок,운동선수
+Bartender,Bartender,บาร์เทนเดอร์,Cantinero,酒保,Barkeeper,Barman,Barman,Бармен,바텐더
+Bouncer,Bouncer,,Seguridad,保安,Türsteher,Segurança,Videur,Вышибала,바운서
+Businessman,Investment Banker,,Banquero de inversión,银行家,Investmentbanker,Banqueiro de Investimento,Banquier d'affaires,Банкир,투자자
+Cannibal,Cannibal,มนุษย์กินคน,Caníbal,食人者,Kannibale,Canibal,Cannibale,Каннибал,식인종
+Caveman,Caveman,มนุษย์ถ้ำ,Cavernícola,穴居人,Höhlenmensch,Homem das Cavernas,Homme des cavernes,Пещерный человек,원시인
+Celebrity,Celebrity,เซเลบ,Celebridad,明星,Prominenter,Celebridade,Célébrité,Знаменитость,유명인
+Comedian,Comedian,นักเล่าเรื่องตลก,Comediante,喜剧演员,Komiker,Comediante,Comédien,Комик,코미디언
+Cop,Cop,ตำรวจ,Policía,警察,Polizist,Policial,Policier,Коп,경찰
+Cop2,Supercop,,Superpolicía,超级警察,Superpolizist,Super Policial,Super-flic,Суперкоп,슈퍼캅
+Cowboy,Cowboy,คาวบอย,Vaquero,牛仔,Cowboy,Vaqueiro,Cow-boy,Ковбой,카우보이
+Cultist,Cultist,สาวกลัทธิ,Fanático,邪教徒,Kultanhänger,Fanático,Cultiste,Культист,이교도
+Doctor,Doctor,หมอ,Médico,医生,Arzt,Médica,Docteur,Доктор,의사
+DrugDealer,Drug Dealer,คนขายยา,Traficante de drogas,毒贩,Drogendealer,Traficante de Drogas,Trafiquant de drogue,Наркоторговец,마약상
+Farmer,Farmer,เกษตรกร,Granjero,农夫,Bauer,Agricultor,Fermier,Фермер,농부
+Firefighter,Firefighter,นักดับเพลิง,Bombero,消防员,Feuerwehrmann,Bombeiro,Pompier,Пожарный,소방관
+Gangbanger,Gangster (Crepe),ชาวแก๊ง (Crepe),Gangster (Crepe),流氓（瘸帮）,Gangster (Crepe),Gangster (Crepe),Gangster (Crêpe),Бандит (Невалидные),갱스터(크레이프)
+GangbangerB,Gangster (Blahd),ชาวแก๊ง (Blahd),Gangster (Blahd),流氓（血帮）,Gangster (Blahd),Gangster (Blahd),Gangster (Blair),Бандит (Кровяные),갱스터(블라드)
+Genie,Genie,จีนี่,Genio,灯神,Flaschengeist,Gênio,Génie,Джин,지니
+Ghost,Ghost,ผี,Fantasma,幽灵,Geist,Fantasma,Fantôme,Призрак,유령
+Gorilla,Gorilla,กอริลล่า,Gorila,大猩猩,Gorilla,Gorila,Gorille,Горилла,고릴라
+Guard,Goon,ยาม,Matón,打手,Wache,Capanga,Garde,Головорез,바보
+Hacker,Hacker,แฮ็คเกอร์,Hacker,黑客,Hacker,Hacker,Hacker,Хакер,해커
+Hobo,Slum Dweller,,Mendigo,贫民区居民,Slumbewohner,Mendigo,Clochard,Бомж,빈민가 거주자
+Hologram,Hologram Bigfoot,,Holograma de Pie Grande,全息大脚怪,Bigfoot-Hologramm,Pé Grande Holograma,Bigfoot holographique,Голограмма йети,홀로그램 빅풋
+Janitor,Janitor,ภารโรง,Conserje,清洁工,Hausmeister,Zelador,Concierge,Уборщик,청소부
+Judge,Judge,ผู้พิพากษา,Juez,法官,Richter,Juiz,Juge,Судья,판사
+Lawyer,Lawyer,ทนายความ,Abogado,律师,Anwalt,Advogado,Avocat,Юрист,변호사
+Magician,Magician,นักมายากล,Mago,魔术师,Zauberer,Mago,Magicien,Фокусник,마술사
+Mobster,Mobster,,Mafioso,匪徒,Mafioso,Mafioso,Truand,Гангстер,조폭
+Mortician,Mortician,,Agente funerario,殡葬员,Bestatter,Agente Funerário,Croque-mort,Гробовщик,폭도
+Musician,Musician,นักดนตรี,Músico,音乐家,Musiker,Músico,Musicien,Музыкант,음악가
+Necromancer,Necromancer,หมอผี,Nigromante,死灵法师,Geisterbeschwörer,Necromante,Nécromancien,Некромансер,점쟁이
+OfficeDrone,Office Drone,,Zángano de la oficina,办公室职员,Büromensch,Formiguinha de Escritório,Gratte-papier,Офисный планктон,오피스 드론
+Pirate,Pirate,โจรสลัด,Pirata,海盗,Pirat,Pirata,Pirate,Пират,해적
+Politician,Politician,,Político,政治家,Politiker,Político,Politicien,Политик,정치가
+Priest,Priest,นักบวช,Sacerdote,牧师,Priester,Padre,Prêtre,Священник,성직자
+Reporter,Reporter,ผู้ประกาศข่าว,Reportero,记者,Reporter,Repórter,Journaliste,Журналист,리포터
+ResistanceLeader,Resistance Leader,ผู้นำฝ่ายต่อต้าน,Líder de la resistencia,抵抗组织领袖,Anführer des Widerstands,Líder da Resistência,Chef de la résistance,Лидер сопротивления,저항군 리더
+Robot,Killer Robot,หุ่นยนต์นักฆ่า,Robot Asesino,机器人杀手,Mörderroboter,Matador de Robôs,Robot Tueur,Робот-убийца,"킬러 로봇 "
+Scientist,Scientist,นักวิทยาศาสตร์,Científico,科学家,Wissenschaftler,Cientista,Scientifique,Ученый,과학자
+ShapeShifter,Shapeshifter,นักแปลงกาย,Cambiaformas,变形人,Gestaltwandler,Transmorfo,Change-forme,Оборотень,변신하는 자
+Shopkeeper,Shopkeeper,เจ้าของร้านค้า,Comerciante,店主,Ladeninhaber,Comerciante,Commerçant,Лавочник,가게 주인
+Slave,Slave,ทาส,Esclavo,奴隶,Sklave,Escravo,Esclave,Раб,노예
+FormerSlave,Former Slave,,Ex esclavo,前奴隶,Ehemaliger Sklave,Ex-escravo,Ancien esclave,Бывший раб,이전 노예
+SecretAgent,Secret Agent,เจ้าหน้าที่ลับ,Agente secreto,特务,Geheimagent,Agente Secreto,Agent secret,Секретный агент,비밀 요원
+Slavemaster,Slavemaster,เจ้านายทาส,Amo de esclavos,奴隶主,Sklavenhalter,Senhor de Escravos,Esclavagiste,Рабовладелец,슬레이브 마스터
+Soldier,Soldier,ทหาร,Soldado,战士,Soldat,Soldado,Soldat,Солдат,군인
+Spy,Spy,สปาย,Espía,间谍,Spion,Espião,Espion,Шпион,스파이
+Thief,Thief,โจร,Ladrón,小偷,Dieb,Ladrão,Voleur,Вор,도둑
+Vampire,Vampire,แวมไพร์,Vampiro,吸血鬼,Vampir,Vampiro,Vampire,Вампир,뱀파이어
+Vigilante,Vigilante,,Vigilante,侠客,Bürgerwehrmitglied,Vigilante,Justicier,Мститель,자경단원
+Werewolf,Werewolf,มนุษย์หมาป่า,Hombre lobo,狼人,Werwolf,Lobisomem,Loup-garou,Вервольф,늑대 인간
+WerewolfB,Werewolf,มนุษย์หมาป่า,Hombre lobo,狼人,Werwolf,Lobisomem,Loup-garou,Вервольф,늑대 인간
+Worker,Worker,คนงาน,Trabajador,工人,Arbeiter,Trabalhador,Ouvrier,Рабочий,근로자
+Wrestler,Wrestler,นักมวยปล้ำ,Luchador,摔跤手,Ringer,Lutador,Catcheur,Рестлер,레슬러
+Zombie,Zombie,ผีดิบ,Zombi,僵尸,Zombie,Zumbi,Zombi,Зомби,좀비
+,,,,,,,,,
+Mafia,Mobster,มาเฟีย,Mafioso,匪徒,Mafioso,Mafioso,Truand,Гангстер,조폭
+UpperCruster,Upper-Cruster,"This is an upper-class, well-to-do character class",Rico,贵族,Privilegierte Oberschicht,Classe Alta,Gratin,Богатей,어퍼 크러스터
+Slave_Chinese,Servant,,,仆人,,,,,
+FormerSlave_Chinese,Former Servant,,,前仆人,,,,,
+Slavemaster_Chinese,Servant Provider,,,老爷,,,,,
+Cop_Chinese,No-Fun Enforcer,,,铁面巡警,,,,,
+Cop2_Chinese,Super No-Fun Enforcer,,,超级铁面巡警,,,,,
+Cannibal_Chinese,Maniac,,,疯子,,,,,
+Zombie_Chinese,Diseased,,,痨病鬼,,,,,
+Gangbanger_Chinese,Troublemaker (Blahd),,,古惑仔（血帮）,,,,,
+GangbangerB_Chinese,Troublemaker (Crepe),,,古惑仔（瘸帮）,,,,,
+DrugDealer_Chinese,Street Peddler,,,街头毒贩,,,,,
+,,,,,,,,,
+Clerk,Clerk,,Empleado,职员,Angestellter,Atendente,Employé,Клерк,출납원
+CopBot,Cop Bot,หุ่นยนต์ตำรวจ,Robopoli,警察机器人,Roboterpolizist,Policial robô,Robot flic,Робот-коп,경찰 봇
+Nature,Environment,,Entorno,环境,Umwelt,Ambiente,Environnement,Окружение,환경
+Self,Self,ตัวเอง,Uno mismo,自我,Selbst,Você mesmo,Soi,Себя,본인
+ButlerBot,Butler Bot,,Robomayordomo,管家机器人,Dienerroboter,Mordomo robô,Robot majordome,Робот-дворецкий,집사 봇
+Mayor,Mayor,นายก,Alcalde,市长,Bürgermeister,Prefeito,Maire,Мэр,시장
+Guard2,Supergoon,,Supermatón,超级暴徒,Superwache,Supercapanga,Supergarde,Суперголоворез,슈퍼 깡패
+Dealer,Dealer,,Dealer,毒贩,Dealer,Traficante,Trafiquant,Торговец,상인
+Gangbanger_N,Crepe,,Crepe,瘸帮,Crepe,Crepe,Crêpe,Невалидные,크레이프
+GangbangerB_N,Blahd,,Blahd,血帮,Blahd,Blahd,Blair,Кровяные,블라드
+RobotPlayer,Robot,หุ่นยนต์,Robot,机器人,Roboter,Robô,Robot,Робот,로봇
+,,,,,,,,,
+CopBot_Chinese,Enforcer Bot,,,机器人执法者,,,,,
+,,,,,,,,,
+Courier,Courier,,Repartidor,快递员,Kurier,Entregador,Livreur,Курьер,배달부
+MechEmpty,Mech,,Mecarobot,机甲,Mech,Meca,Mécano,Боевой робот,메카
+MechFilled,Mech,,Mecarobot,机甲,Mech,Meca,Mécano,Боевой робот,메카
+MechPilot,Mech Pilot,,Piloto de Mecarobot,机甲驾驶员,Mech-Fahrer,Piloto de Meca,Pilote de mecha,Пилот робота,메카 파일럿
+Demolitionist,Demolitionist,,Demoledor,爆破者,Demolierer,Demolidor,Démolisseur,Подрывник,철거자
+,,,,,,,,,
+BlueCollars,Blue Collar Workers,,Trabajadores de cuello azul,蓝领工人,Blue Collar Workers,Trabalhadores do colarinho azul,Les travailleurs cols bleus,Синие воротнички,블루 칼라 노동자
+BusinessOwners,Business Owners,,Dueños de negocios,企业主,Unternehmer,Proprietários de negócios,Les propriétaires d'entreprise,Владельцы бизнеса,경영주
+Creatures,Creatures,,criaturas,生物,Kreaturen,Criaturas,créatures,Существа,생물
+Entertainers,Entertainers,,artistas,演艺人员,Entertainers,animadores,amuseurs,Конферансье,연예인
+Fighters,Fighters,,combatientes,战士,Fighters,Fighters,Fighters,Борцы,전투기
+GangbangerType,Gangsters,,gangsters,黑帮,Gangsters,gangsters,gangsters,Гангстеры,깡패
+GuardType,Guards,,guardias,逆天,Guards,guardas,gardes,гвардия,근위 연대
+SlumsAgent,Slum NPCs,,Slum NPC,贫民窟的NPC,Slum NPCs,Slum NPCs,Slum NPC,НПС Трущоб,슬럼의 NPC
+ParkAgent,Park NPCs,,parque NPC,公园的NPC,Park NPCs,parque NPCs,parc NPC,НПС Парка,공원의 NPC
+ParkHomeAgent,Park Homeowners,,Los propietarios de viviendas del parque,公园房主,Park Hausbesitzer,Os proprietários do parque,Les propriétaires du parc,Домовладельцы Парка,공원 주택 소유자
+UptownHomeAgent,Uptown Homeowners,,Los propietarios de viviendas de la parte alta,住宅区的房主,Uptown Hausbesitzer,Os proprietário Uptown,Les propriétaires Uptown,Домовладельцы Пригорода,업타운 주택 소유자
+CaveAgent,Cave Dwellers,,Habitantes de las cuevas,穴居,Höhlenbewohner,Moradores de caverna,Cave Dwellers,Обитатели пещер,동굴 거주자
+DowntownAgent,Downtown NPCs,,El centro NPC,市中心的NPC,Downtown NPCs,Downtown NPCs,NPC centre-ville,НПС Делового центра,시내의 NPC
+UptownAgent,Uptown NPCs,,Uptown NPC,上城区的NPC,Uptown NPCs,Uptown NPCs,NPC Uptown,НПС Пригорода,업타운의 NPC
+HideoutAgent,Hideout NPCs,,escondite NPC,藏身处的NPC,Hideout NPCs,Hideout NPCs,Hideout NPC,НПС Убежищ,은신처의 NPC
+HideoutAgentIndustrial,Hideout NPCs (Industrial),,CPN Hideout (Industrial),藏身之处的NPC（工业级）,Hideout NPCs (Industrial),NPCs Hideout (Industrial),NPC Hideout (industriel),НПС Убежищ (Завод),은신처의 NPC (산업)
+Hooligans,Hooligans,,hooligans,流氓,Hooligans,Hooligans,hooligans,Хулиганы,폭력배
+HooligansNoGangbangers,Hooligans (No Gangsters),,Hooligans (No Gangsters),流氓（无黑帮）,Hooligans (keine Gangsters),Hooligans (Sem Gangsters),Hooligans (No Gangsters),не Хулиганы (Нет Гангстеров),폭력배 (없음 깡패 없음)
+LawWorkers,Law Workers,,Los trabajadores de abogados,法律工作者,Law Workers,Lei Trabalhadores,loi sur les travailleurs,Работники правоохр. органов,법률 노동자
+LabSpecimens,Lab Specimens,,Las muestras de laboratorio,实验室标本,Lab Proben,As amostras de laboratório,laboratoire Specimens,Лабораторные образцы,실험실 표본
+WhiteCollars,White Collar Workers,,Trabajadores de cuello blanco,白领,Angestellte,Trabalhadores de colarinho branco,Cols blancs,Белые воротнички,화이트 칼라 노동자
+Kidnapped,Kidnapped,,secuestrado,绑架,Kidnapped,Seqüestrado,Kidnappé,Похищенные,납치
+ArenaBattler,Arena Battlers,,Arena Battlers,竞技场Battlers,Arena Battlers,Arena Battlers,Arena Battlers,Бойцы арены,아레나 유랑인
+PlayerChooses,- Player Chooses,,- elige el jugador,- 玩家选择,- Spieler wählt,- Escolhe Jogador,- joueur choisit,- Игрок выбирает,- 플레이어 선택
+None,- None,,- Ninguna,- 没有,- Keiner,- Nenhum,- Aucun,- Никто,- 없음
+WallSpawnSometimes,50% Spawn Chance,,50% freza Probabilidad,50％产卵机会,50% Spawn Chance,50% de Spawn Possibilidade,50% Spawn Chance,50% вероятность появления,50 %의 확률로 스폰
+testagent,xx,,,,,,,,

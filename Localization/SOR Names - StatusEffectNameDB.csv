@@ -1,0 +1,395 @@
+STRING_ID,English,Translation,Spanish,Chinese,German,Brazilian,French,Russian,Korean
+TYPE,string,string,string,string,string,string,string,string,string
+AboveTheLaw,Above the Law,,Por encima de la ley,践踏法律,Über dem Gesetz,Acima da Lei,Au-dessus de la Loi,Вне закона,법 위에
+Accurate,Accurate,,Preciso,精准度,Präzise,Preciso,Précis,Точность,정확함
+Acid,Sulfuric Acid,,Ácido sulfúrico,硫酸,Schwefelsäure,Ácido sulfúrico,Acide sulfurique,Серная кислота,황산
+AlwaysCrit,Always Crit,,Siempre crítico,百分百暴击,Immer kritische Treffer,Sempre Crítico,100% critique,Постоянный крит,항상 치명타
+Attractive,Attractive,,Atractivo,魅力无限,Attraktiv,Atraente,Attirant,Привлекательность,매력적
+BadHearing,Bad Hearing,,Mala audición,装聋作哑,Schlechtes Gehör,Má Audição,Mauvaise ouïe,Слабый слух,나쁜 청력
+BadVision,Bad Vision,,Mala visión,一叶障目,Schlechte Sicht,Má Visão,Mauvaise vue,Плохое зрение,나쁜 시력
+Backstabber,Backstabber,,Traidor,背刺,Verräter,Traidor,Adepte du poignard dans le dos,Нападение со спины,배신자
+BananaLover,Banana Lover,,Amante de la banana,我爱食蕉,Bananenfan,Amante de Banana,Amateur de bananes,Любовь к бананам,바나나 러버
+BananaLover2,Banana Lover +,,Amante de la banana +,我爱食蕉 +,Bananenfan +,Amante de Banana +,Amateur de bananes +,Любовь к бананам +,바나나 러버 +
+BigBullets,Big Bullets,,De grandes balas,大只子弹,Große Kugeln,Grandes Balas,Grosses bastos,Большие пули,큰 총알
+BigMelee,Big Melee,,De gran ataque físico,近战增益,Großes Handgemenge,Grande Ataque Físico,Grosse mêlée,Мощный ближний бой,큰 근접 무기
+BloodyMess,Bloody Mess,,Un desastre total,猴子偷桃,Blutiges Durcheinander,Confusão,Du sang. Partout,Кровавое месиво,피가 묻은 난장판
+BulletForceField,Bullet Force Field,,Campo de fuerza antibalas,子弹力场,Kugelkraftfeld,Campo de Força de Bala,Champ de force pare-balle,Силовое поле от пуль,불릿 포스 필드
+CanSpeakAllLanguages,Can Speak All Languages,,Hablo todos los idiomas,语言专家,Kann alle Sprachen sprechen,Pode Falar Todos os Idiomas,Peut parler toutes les langues,Вавилонская рыбка,모든 언어를 말할 수 있음
+CantSpeakEnglish,Vocally Challenged,,Con dificultad para hablar,笨嘴拙舌,Sprachgestört,Dificuldade de Fala,Vocalement limité,Проблемы с произношением,구두로 도전받음
+CantUseGuns,Stubby Fingers,,Dedos gruesos,粗短手指,Stummelfinger,Dedos Grossos,Gros doigts,Короткие пальцы,뭉툭한 손가락들
+CantUseWeapons,Pacifist,,Pacifista,和平主义者,Pazifist,Pacifista,Pacifiste,Пацифизм,평화주의자
+CantUseWeapons2,Sausage Fingers,,Dedos de salchicha,香肠手指,Wurstfinger,Dedos de Salsicha,Doigts boudinés,Пальцы-сосиски,끝이 뭉툭한 손가락들
+DontTriggerFloorHazards,Graceful,,Grácil,凌波微步,Graziös,Elegante,Gracieux,Изящество,우아함
+Drunk,Drunk,,Borracho,酒气熏天,Betrunken,Bêbado,Bourré,Пьянь,술에 취함
+ElectroTouch,Electro Touch,,Electrotoque,触电般的感觉,Elektroberührung,Eletrotoque,Toucher électrique,Электрическое прикосновение,전기 접촉
+Enraged,Enraged,,Enfurecido,暴怒,Wütend,Enfurecido,Enragé,Ярость,격분함
+Enraged_B,Rage,,Rabia,狂怒,Wut,Raiva,Rage,Гнев,분노
+Fast,Fast,,Rápido,疾走,Schnell,Rápido,Rapide,Ускорение,빠름
+FastLunge,Fast Lunge,,Embestida rápida,快速突刺,Schneller Überraschungsangriff,Ataque Rápido,Ruée rapide,Быстрый выпад,빠른 찌르기
+FastMelee,Fast Melee,,Rápido ataque cuerpo a cuerpo,快速近战,Schneller Nahkampfangriff,Ataque Físico Rápido,Corps-à-corps rapide,Быстрый удар,빠른 근접 무기
+FastMelee2,Fast Melee +,,Rápido ataque cuerpo a cuerpo +,快速近战 +,Schneller Nahkampfangriff +,Ataque Físico Rápido +,Corps-à-corps rapide +,Быстрый удар +,빠른 근접 무기 +
+GoodThrower,Good Thrower,,Buen lanzador,出色的投手,Guter Werfer,Bom Lançador,Bon lanceur,Хороший бросок,우수한 방사기
+GoodTrader,Shrewd Negotiator,,Negociador sagaz,砍价小能手,Raffinierter Verhandlungsführer,Negociador Astuto,Négociateur rusé,Навыки переговорщика,날카로운 협상가
+GoodTrader2,Shrewd Negotiator +,,Negociador sagaz +,砍价小能手 +,Raffinierter Verhandlungsführer +,Negociador Astuto +,Négociateur rusé +,Навыки переговорщика +,날카로운 협상가 +
+BadTrader,Sucker,,Imbécil,菜场白痴,Schlechter Händler,Otário,Pigeon,Сосунок,얼간이
+GunKnockback,Gun Knockback,,Retroceso de arma,枪械击退,Waffenrückstoß,Recuo da Pistola,Recul de flingue,Отдача от выстрелов,총 반동
+HearingBlocked,Hearing Blocked,,Con audición bloqueada,听力受阻,Gehör blockiert,Audição Bloqueada,Ouïe bloquée,Отсутствие слуха,청각 차단됨
+IdentifyScience,Drug-a-lug,,Drogata,用药指南,Droge-auf-ex,Viciado em drogas,Encyclopédie à substances,Справочник лекарств,단숨에
+IncreasedCritChance,Increased Crit Chance,,Mayor probabilidad de crítico,提高暴击率,Erhöhte Chance auf kritische Treffer,Chance de Ataque Crítico Aumentada,Chances de critique augmentées,Повышенный шанс крита,높아진 치명타 기회
+IncreasedCritChance2,Increased Crit Chance +,,Mayor probabilidad de crítico +,提高暴击率 +,Erhöhte Chance auf kritische Treffer +,Chance de Ataque Crítico Aumentada +,Chances de critique augmentées +,Повышенный шанс крита +,높아진 치명타 기회 +
+IncreaseAllStats,Increase All Stats,,Aumentar todas las estadísticas del jugador,属性增益,Erhöhung aller Spielerstatistiken,Aumentar Todos os Stats,Toutes les statistiques augmentées,Бонус к характеристикам,모든 통계 증가
+DecreaseAllStats,Decrease All Stats,,Reduce todas las estadísticas,属性减益,Verringerung aller Spielerstatistiken,Diminuir Todos os Stats,Toutes les statistiques réduites,Штраф к характеристикам,모든 통계 감소
+IgnoreLasers,Lasers Ignore You,,Los rayos láser te evitan,看不见我,Laser ignorieren dich,Os Lasers Ignoram Você,Les lasers vous ignorent,Лазеры вас не замечают,레이저가 당신을 무시합니다.
+IncreaseStrength,Increase Melee,,Aumentar ataque cuerpo a cuerpo,近战提升,Nahkampfangriff erhöhen,Aumentar ataque físico,Augmenter Corps-à-corps,Бонус к ближнему бою,근접 공격 증가
+IncreaseEndurance,Increase Endurance,,Aumentar la Resistencia,耐力增益,Ausdaueranstieg,Aumentar Resistencia,Endurance augmentée,Бонус к выносливости,지구력 증가
+IncreaseAccuracy,Increase Firearms,,Aumentar armas de fuego,火器提升,Waffengenauigkeit erhöhen,Aumentar armas de fogo,Augmenter Armes à feu,Бонус к огнестрелу,화력 높이기
+IncreaseSpeed,Increase Speed,,Aumentar la Velocidad,速度增益,Geschwindigkeitszunahme,Aumentar Velocidade,Vitesse augmentée,Бонус к скорости,속도 증가
+DecreaseStrength,Decrease Melee,,Disminuir ataque cuerpo a cuerpo,近战降低,Nahkampfangriff verringern,Diminuir ataque físico,Baisser Corps-à-corps,Штраф к ближнему бою,근접 공격 감소
+DecreaseEndurance,Decrease Endurance,,Disminuir la Resistencia,耐力减益,Ausdauerverlust,Diminua a Resistência,Endurance réduite,Штраф к выносливости,지구력 감소
+DecreaseAccuracy,Decrease Firearms,,Disminuir armas de fuego,火器降低,Waffengenauigkeit verringern,Diminuir armas de fogo,Baisser Armes à feu,Штраф к огнестрелу,화력 낮추기
+DecreaseSpeed,Decrease Speed,,Disminuir la Velocidad,速度减益,Geschwindigkeitsverlust,Diminuir Velocidade,Vitesse réduite,Штраф к скорости,속도 감소
+Giant,Giant,,Gigante,巨人,Riese,Gigante,Géant,Гигант,거인
+HatesGorilla,Specist,,Aborrecedor del Gorila,我恨动物,Gorillawahn,Especista,Espéciste,Ненависть к животным,동물 혐오자
+HatesScientist,Scientist Slayer,,Aborrecedor del Científico,科学家杀手,Wissenschaftlerwahn,Caçador de Cientistas,Tueur de scientifiques,Охотник на ученых,과학자 살인자
+HatesRivalGang,Turf Warrior,,Aborrecedor de la competencia,抢地盘,Straßenkämpfer,Disputador de Território,Guerrier territorial,Патриот,잔디 전사
+Invincible,Invincible,,Invencible,无敌,Unbesiegbar,Invencível,Invincible,Неуязвимость,천하무적
+Invisible,Invisible,,Invisible,隐身,Unsichtbar,Invisível,Invisible,Невидимость,보이지 않음
+InvisibleLimited,Camouflage,,Camuflaje,伪装,Tarnung,Camuflagem,Camouflage,Камуфляж,위장막
+InvisibleToCameras,Camera Shy,,Tímido ante las cámaras,不爱拍照,Kamerascheu,Timidez para Câmeras,Timide devant les caméras,Боязнь камер,사진 찍기를 싫어함
+InvisibleToHumans,Invisible to Humans,,Invisible a los humanos,对人类隐身,Für Menschen unsichtbar,Invisível para Humanos,Invisible pour les humains,Невидимость для людей,인간에게 보이지 않음
+InvisiblePermanent,Invisible,,Invisible,隐身,Unsichtbar,Invisível,Invisible,Невидимость,보이지 않음
+KillerThrower,Killer Thrower,,Lanzador asesino,杀手飞镖,Tötungswerfer,Lançador Assassino,Tueur au lancer,Убийственный бросок,킬러 방사기
+KnockbackLess,Tank-Like,,Como un tanque,肉山,Wie ein Panzer,Como um Tanque,Inamovible,Гора,탱크 같은
+KnockbackMore,Skinny Nerdlinger,,Alfeñique flacucho,皮包骨,Schmächtiger kleiner Nerd,Nerd Magrelo,Crevette,Недовес,스키니 너드링거
+LessDamageAligned,Less Aligned Damage,,Menos daño de los alineados,自己人不打自己人,Weniger Schaden bei Verbündeten,Menos Dano aos Aliados,Moins de dégâts aux associés,Сниженный урон по своим,관련된 데미지 적게
+Likeable,Charismatic,,Carismático,魅力超凡,Charismatisch,Carismático,Charismatique,Харизма,카리스마
+Likeable2,Charismatic +,,Carismático +,魅力超凡 +,Charismatisch +,Carismático +,Charismatique +,Харизма +,카리스마 +
+Unlikeable,Malodorous,,Maloliente,臭气熏天,Übelriechend,Malcheiroso,Dégoûtant,Неприятная внешность,악취를 풍기는
+LowCostJobs,Low-Cost Jobs,,Trabajos de bajo costo,低成本工作,Billige Arbeit,Trabalho de Baixo Custo,Petits boulots,Дешевые наемники,저비용 작업
+LowCostJobs2,Low-Cost Jobs +,,Trabajos de bajo costo +,低成本工作 +,Billige Arbeit +,Trabalho de Baixo Custo +,Petits boulots +,Дешевые наемники +,저비용 작업 +
+HighCostJobs,High-Cost Jobs,,Trabajos de alto costo,高成本工作,Teure Arbeit,Trabalho de Alto Custo,Gros salaires,Дорогие наемники,고비용 작업
+NoCostJobs,No-Cost Jobs,,Trabajos sin costo,空手套白狼,Kostenlose Arbeit,Trabalho Sem Custo,Bénévolat,Бесплатные наемники,비용 없는 작업
+MedicalProfessional,Medical Professional,,Médico profesional,医疗专家,Medizinische Fachkraft,Profissional Médico,Professionnel médical,Профессиональный врач,의료 전문가
+MoreFollowers,Team Building Expert,,Experto en grupos,万人迷,Experte für Teambildung,Especialista em Construção de Equipe,Pro de l'esprit d'équipe,Эксперт по тимбилдингу,팀 빌딩 전문가
+NoFollowers,Antisocial,,Antisocial,万人嫌,Unsozial,Antisocial,Antisocial,Антисоциальность,반사회적
+NiceSmelling,Perfumorous,,Perfumado,香气迷人,Wohlriechend,Perfurmado,Parfumé,Приятный аромат,향기
+Nicotine,Nicotine,,Nicotina,尼古丁,Nikotin,Nicotina,Nicotine,Никотин,니코틴
+NoEffect,No Effect!,,¡Ningún efecto!,无效果！,Kein Effekt!,Sem Efeito!,Pas d'effet !,Нет эффекта!,효과 없음!
+NumbToPain,Numb To Pain,,Insensible al dolor,痛到麻木,Schmerzunempfindlich,Insensível a Dor,Insensible à la douleur,Нечувствительность к боли,고통에 무감각
+OnFire,On Fire,,Ardiente,烈焰焚身,Brennend,Em Chamas,En feu,Горит,불에 탐
+Paralyzed,Paralyzed,,Paralizado,麻痹,Gelähmt,Paralizado,Paralysé,Паралич,마비됨
+Pickpocket,Pickpocket,,Carterista,偷窃,Taschendieb,Batedor de Carteira,Pickpocket,Карманник,소매치기
+Poisoned,Poisoned,,Envenenado,中毒,Vergiftet,Envenenado,Empoisonné,Отравление,독살됨
+RegenerateHealth,Regenerate Health,,Regenerar salud,生命值重生,Gesundheitsregenerierung,Regenerar Energia,Régénération,Регенерация здоровья,헬스 재생성
+RegenerateHealthWhenLow,Modern Warfarer,,Guerrero moderno,现代战士,Moderne Kriegsführung,Guerreiro Moderno,Danse avec la mort,Современные методы боя,현대 전사
+RegenerateHealthWhenLow2,Modern Warfarer +,,Guerrero moderno +,现代战士 +,Moderne Kriegsführung +,Guerreiro Moderno +,Danse avec la mort +,Современные методы боя +,현대 전사 +
+ResistDamageSmall,Resist Damage (Small),,Resistir daños (pequeños),伤害抗性（小）,Widerstand gegen Schaden (niedrig),Suporta Dano (Pequeno),Résistance aux dégâts (légère),Сопротивление урону (низкое),데미지(작음) 저지
+ResistDamageMed,Resist Damage (Medium),,Resistir daños (medianos),伤害抗性（中）,Widerstand gegen Schaden (mittel),Suporta Dano (Médio),Résistance aux dégâts (moyenne),Сопротивление урону (среднее),데미지(보통) 저지
+ResistDamageLarge,Resist Damage (Large),,Resistir daños (grandes),伤害抗性（大）,Widerstand gegen Schaden (hoch),Suporta Dano (Grande),Résistance aux dégâts (importante),Сопротивление урону (высокое),데미지(큼) 저지
+ResistBullets,Resist Bullets,,Resistir balas,子弹抗性,Widerstand gegen Kugeln,Suporta Balas,Résistance aux balles,Сопротивление пулям,총알 저지
+ResistBulletsSmall,Resist Bullets (Small),,Resistir balas (pequeñas),子弹抗性（小）,Widerstand gegen Kugeln (niedrig),Suporta Balas (Pequeno),Résistance aux balles (légère),Сопротивление пулям (низкое),총알(작음) 저지
+ResistFire,Resist Fire,,Resistir fuego,火焰抗性,Widerstand gegen Feuer,Suporta Fogo,Résistance au feu,Сопротивление огню,화재 저지
+ResistGas,Resist Gas,,Resistir gas,毒气抗性,Widerstand gegen Gas,Suporta Gás,Résistance aux gaz,Сопротивление газам,가스 저지
+Resurrection,Resurrection,,Resurrección,复活,Auferstehung,Ressurreição,Résurrection,Воскрешение,부활
+ScienceExpert,Science Expert,,Experto en ciencias,科学专家,Wissenschaftsexperte,Especialista em Ciência,Expert en sciences,Ученость,과학 전문가
+Shrunk,Shrunk,,Encogido,小个子形态,Geschrumpft,Encolhido,Rétréci,Уменьшение,축소
+Frozen,Frozen,,Congelado,冻结,Eingefroren,Congelado,Gelé,Заморозка,냉동
+SleepKiller,Sleep Killer,,Asesino del sueño,睡眠杀手,Schlafmörder,Assassino de Sono,Tueur de rêves,Убийство во сне,수면 킬러
+Slow,Slow,,Lento,减速,Langsam,Lento,Lent,Замедление,느림
+StatusEffectsLonger,Longer Status Effects,,Efectos de estado más largos,延长状态效果,Längere Statuseffekte,Efeitos dos Estados Mais Longo,États particuliers prolongés,Продолжительные статусные эффекты,더 긴 상태 효과
+StatusEffectsLonger2,Longer Status Effects +,,Efectos de estado más largos +,延长状态效果 +,Längere Statuseffekte +,Efeitos dos Estados Mais Longo +,États particuliers prolongés +,Продолжительные статусные эффекты +,더 긴 상태 효과 +
+StatusEffectsShorter,Shorter Status Effects,,Efectos de estado más cortos,缩短状态效果,Kürzere Statuseffekte,Efeitos dos Estados Mais Curtos,États particuliers raccourcis,Непродолжительные статусные эффекты,더 짧은 상태 효과
+Strength,Strength,,Fuerza,力量,Stärke,Força,Force,Сила,힘
+StrengthPlus1,Strength +1,,Fuerza + 1,力量 + 1,Stärke +1,Força +1,Force +1,Сила +1,힘 +1
+Weak,Weak,,Débil,虚弱,Schwach,Fraco,Faible,Слабость,약함
+StrongLunge,Strong Lunge,,Embestida fuerte,强力突刺,Starker Überraschungsangriff,Ataque Forte,Ruée puissante,Мощный выпад,강력한 찌르기
+SuperchargeHealth,Supercharge Health,,Supercargar la salud,生命值快充,Supergesundheitsaufladung,Supercarregar Energia,Super santé,Суперздоровье,헬스 과충전
+TechExpert,Tech Expert,,Experto en tecnología,技术专家,Technikexperte,Especialista em tecnologia,Expert technologique,Технарь,기술 전문가
+NoTechSkill,Computer Illiterate,,Analfabeto digital,电脑盲,Computerlaie,Analfabeto Digital,Noob de l'informatique,«Чайник»,컴퓨터 문맹
+TheLaw,The Law,,La Ley,执法者,Das Gesetz,A Lei,La Loi,Я закон,법
+TouchDamage,Touch Damage,,Daño de toque,金手指,Berührungsschaden,Dano de Toque,Toucher douloureux,Урон касанием,터치 데미지
+Tranquilized,Tranquilized,,Sedado,镇定剂,Betäubt,Sedado,Tranquillisé,Транквилизатор,진정됨
+Loud,Loud,,Ruidoso,噪音鞋子,Laut,Alto,Bruyant,Громкость,시끄러움
+Confused,Confused,,Confundido,困惑,Verwirrt,Confuso,Confus,Смятение,혼란
+MoreKnockingThroughWalls,Walls' Worst Nightmare,,La peor pesadilla de las paredes,墙壁的噩梦,Schlimmster Alptraum der Wände,O Pior Pesadelo das Paredes,Le pire cauchemar des murs,Страшный сон любой стены,벽의 최악의 악몽
+MoreKnockingThroughWalls2,Walls' Worst Nightmare +,,La peor pesadilla de las paredes +,墙壁的噩梦 +,Schlimmster Alptraum der Wände +,O Pior Pesadelo das Paredes +,Le pire cauchemar des murs +,Страшный сон любой стены +,벽의 최악의 악몽 +
+StrongFists,Knuckley,,De puños fuertes,指节套,Harter Knöchel,De Punhos Fortes,Tout en phalanges,Стальные костяшки,강력한 주먹
+StrongFists2,Knuckley +,,De puños fuertes +,指节套 +,Harter Knöchel +,De Punhos Fortes +,Tout en phalanges +,Стальные костяшки +,강력한 주먹 +
+StartWithFollowers,Loneliness Killer,,Asesino de soledad,独行杀手,Einsamkeitsauslöscher,Assassino de Solidão,Tueur de solitude,Борьба с одиночеством,외로움 킬러
+StartWithFollowers2,Loneliness Killer +,,Asesino de soledad +,独行杀手 +,Einsamkeitsauslöscher +,Assassino de Solidão +,Tueur de solitude +,Борьба с одиночеством +,외로움 킬러 +
+NoOwnCheckOnBreak,Clumsiness Forgiven,,Torpeza perdonada,允许笨拙,Tollpatschigkeit wird verziehen,Trapalhada Perdoada,Maladresse pardonnée,Неуклюжесть не беда,서투른 용서
+GenericAgentsAligned,Friend of the Common Folk,,Amigo de la gente común,和人民打成一片,Freund des gemeinen Volkes,Amigo das Pessoas comuns,Ami des petites gens,Близость к народу,일반 사람들의 친구
+LongLunge,Long Lunge,,Embestida larga,远距离突刺,Langer Überraschungsangriff,Ataque Longo,Longue ruée,Дальний выпад,긴 찌르기
+LongLunge2,Long Lunge +,,Embestida larga +,远距离突刺 +,Langer Überraschungsangriff +,Ataque Longo +,Longue ruée +,Дальний выпад +,긴 찌르기 +
+HardToShoot,Slippery Target,,Objetivo resbaladizo,滑不溜丢,Glitschiges Ziel,Alvo Evasivo,Cible évasive,Размытая цель,미끄러운 타겟
+HardToShoot2,Slippery Target +,,Objetivo resbaladizo +,滑不溜丢 +,Glitschiges Ziel +,Alvo Evasivo +,Cible évasive +,Размытая цель +,미끄러운 타겟 +
+DontHitAligned,No In-Fighting,,No atacarse entre amigos,禁止内斗,Keine Kämpfe unter Verbündeten,Sem Fogo Amigo,Pas de disputes internes,Не разлей вода,내부 싸움 없음
+BloodRestoresHealth,Jugularious,,Yugularioso,吸血老妖,Halsaderlich,Jugularious,Hémothérapie,Кровопийца,흡혈귀
+ServeDrinks,Serve Drinks,,Servir bebidas,提供酒水,Getränke servieren,Servir Bebidas,Sert des boissons,Бармен,음료 제공
+ArtOfTheDeal,Art of the Deal,,El maestro de la negociación,交易的艺术,Verhandlungskunst,A Arte de Negociar,L'art de la transaction,Мастерство сделки,거래의 예술
+Recharged,Recharged,,Recargado,充能完毕,Wieder aufgeladen,Recarregado,Rechargé,Перезарядка,충전됨
+Dizzy,Dizzy,,Mareado,头晕眼花,Schwindlig,Atordoado,Étourdi,Ошеломление,현기증
+DizzyB,Crazy-Dizzy,,Aturdido,晕死人,Crazy-Dizzy,Louco-Atordoado,Pris de vertiges,Полное ошеломление,미친 현기증
+FullHealth,Full Health,,Con salud plena,满生命值,Volle Gesundheit,Energia Cheia,Pleine forme,Полное здоровье,전체 헬스
+Diminutive,Diminutive,,Diminutivo,小矮人,Zwergenhaft,Diminutivo,Diminutif,Тщедушность,소형
+Naked_Old,Naked,,Desnudo,一丝不挂,Nackt,Pelado,Nu,Обнаженность,벌거벗음
+Naked,Wanted,,Buscado,通缉犯,Gesucht,Procurado,Recherché,Разыскивается,수배
+ExtraLife,Extra Life for PAXers,,Vida extra para los PAXers,Extra Life for PAXers,Zusätzliches Leben für PAXer,Vida Extra para os PAXers,Vie supplémentaire pour les PAXeurs,Дополнительная жизнь для игроков на PAX,PAXers의 추가 수명
+Backstab,Backstab!,,¡Puñalada!,背刺！,Stich in den Rücken!,Apunhalar pelas costas!,Frappe sournoise !,Удар сзади!,뒤통수 치기!
+Ghost,Ghost,,Fantasma,幽灵,Geist,Fantasma,Fantôme,Призрак,유령
+Suspicious,Suspicious,,Sospechoso,外形可疑,Verdächtig,Suspeito,Méfiant,Подозрительность,의심스러움
+Cyanide,Cyanide,,Cianuro,氰化物,Cyanid,Cianeto,Cyanure,Цианид,청산가리
+MeleeMobility,Floats Like Butterfly,,Flota como mariposa,彩蝶飞舞,Schwebt wie ein Schmetterling,Flutua Como Uma Borboleta,Vole comme le papillon,"Порхай, как бабочка",나비처럼 떠다니기
+MeleeMobility2,Floats Like Butterfly +,,Flota como mariposa +,彩蝶飞舞 +,Schwebt wie ein Schmetterling +,Flutua Como Uma Borboleta +,Vole comme le papillon +,"Порхай, как бабочка +",나비처럼 떠다니기 +
+MeleeLastLonger,Durabilitacious,,Durabilidoso,经久耐用,Haltbarkeitsdauer,Durável,Incassable,Уронопрочность,강한 내구성
+MeleeLastLonger2,Durabilitacious +,,Durabilidoso +,经久耐用 +,Haltbarkeitsdauer +,Durável +,Incassable +,Уронопрочность +,강한 내구성 +
+MapFilled,G-P-Yesss,,G-P-Sí,全球定位系统,GPS,G-P-Sim,Guide du Paumé Solitaire,Жы-Пы-Эс!,의 약어
+OperateQuickly,Nimble Fingers,,Dedos ágiles,心灵手巧,Flinke Finger,Dedos Ágeis,Doigts de fée,Ловкие пальцы,재빠른 손가락
+MoreSkillPoints,Studious,,Estudioso,勤奋,Fleißig,Estudioso,Studieux,Прилежность,열심히 공부
+MoreSkillPoints2,Super Studious,,Súper estudioso,超级勤奋,Superfleißig,Super Estudioso,Super studieux,Отменная успеваемость,완전 열심히 공부
+MoreTraitChoices,Jack of Extra Trades,,Todo terreno,全能超人,Alleskönner,De Tudo Mesmo,Touche-à-vraiment-tout,Талантливый ученик,만능 선수
+MoreTraitChoices2,Jack of Extra Trades +,,Todo terreno +,全能超人 +,Alleskönner +,De Tudo Mesmo +,Touche-à-vraiment-tout +,Талантливый ученик +,만능 선수 +
+FastWhenHealthLow,I'm Outtie,,Yo me largo,溜之大吉,Ich bin dann mal weg,Estou fora,J'suis plus là !,Я сваливаю,아웃이야
+FastWhenHealthLow2,I'm Outtie +,,Yo me largo +,溜之大吉 +,Ich bin dann mal weg +,Estou fora +,J'suis plus là ! +,Я сваливаю +,아웃이야 +
+MoreDamageWhenHealthLow,Don't Make Me Angry,,No me hagas enojar,愤怒就是力量,Mach mich nicht wütend,Não Me Irrite,Vous ne m'aimerez pas quand je suis en colère,Не зли меня,날 화나게 하지 마
+MoreDamageWhenHealthLow2,Don't Make Me Angry +,,No me hagas enojar +,愤怒就是力量 +,Mach mich nicht wütend +,Não Me Irrite +,Vous ne m'aimerez pas quand je suis en colère +,Не зли меня +,날 화나게 하지 마 +
+ScareEnemiesEasier,Disturbing Facial Expressions,,Expresiones faciales perturbadoras,狰狞面目,Beunruhigende Gesichtsausdrücke,Expressões Faciais Perturbadoras,Tête bizarre,Угрюмость,불안한 얼굴 표정
+ScareEnemiesEasier2,Disturbing Facial Expressions +,,Expresiones faciales perturbadoras +,狰狞面目 +,Beunruhigende Gesichtsausdrücke +,Expressões Faciais Perturbadoras +,Tête bizarre +,Угрюмость +,불안한 얼굴 표정 +
+FollowersExtraHealth,Infectious Spirit,,Espíritu infeccioso,士气高涨,Ansteckende Stimmung,Espírito Infeccioso,Esprit contagieux,Духовная поддержка,전염되는 정신
+FollowersExtraHealth2,Infectious Spirit +,,Espíritu infeccioso +,士气高涨 +,Ansteckende Stimmung +,Espírito Infeccioso +,Esprit contagieux +,Духовная поддержка +,전염되는 정신 +
+ChanceToSlowEnemies,Kneecapper,,Tronchapiernas,膝盖中了一箭,Kniescheibentreffer,Aleijador,Casseur de rotules,Целься в ноги,무릎따개
+ChanceToSlowEnemies2,Kneecapper +,,Tronchapiernas +,膝盖中了一箭 +,Kniescheibentreffer +,Aleijador +,Casseur de rotules +,Целься в ноги +,무릎따개 +
+NoStealPenalty,Promise I'll Return It!,,¡Prometo que regreso!,好借好还,"Ich verspreche, ich bring's zurück!",Prometo Que Voltarei!,"C'est juste un emprunt, promis !","Обещаю, я верну!",제가 그것을 돌려놓겠다고 약속해요!
+HardToSeeFromDistance,Blends In Nicely,,Se integra bien,杳无踪迹,Passt sich gut an,Misturou-se Bem,Difficile à voir,Смешаться с толпой,멋지게 조화
+HardToSeeFromDistance2,Blends In Nicely +,,Se integra bien +,杳无踪迹 +,Passt sich gut an +,Misturou-se Bem +,Difficile à voir +,Смешаться с толпой +,멋지게 조화 +
+ChanceToKnockWeapons,Butterfinger-er,,Debilitador de dedos,手无寸铁,Waffen runter,Estragador de Dedos,Poisse contagieuse,Скользкие пальцы... у врага,서투른 사람
+Scary,Scary,,Temerario,王霸之气,Unheimlich,Assustador,Effrayant,Страшный,무서운
+Addict,Addict,,Adicto,瘾君子,Süchtiger,Viciado,Accro,Зависимость,중독자
+DroppedWeapon,Dropped!,,¡Cayó!,手滑了！,Fallen gelassen!,Desistiu!,Lâchée !,Упало!,떨어짐!
+Withdrawal,Withdrawal,,Retirada,戒毒副作用,Entzug,Retirada,Sevrage,Абстинентный синдром,후퇴
+FeelingGood,Feelin' Alright,,Me siento bien,万事无忧,Ich fühle mich gut,Sentindo-se Bem,Tout va bien,Все в порядке,기분 좋다
+WerewolfEffect,Werewolf,,Hombre lobo,狼人,Werwolf,Lobisomem,Loup-garou,Вервольф,늑대 인간
+Bloodlust,Bloodlust,,Sed de sangre,嗜血,Blutrausch,Sede de Sangue,Soif de sang,Жажда крови,피에 굶주림
+Bloodlust2,Bloodlust +,,Sed de sangre +,嗜血 +,Blutrausch +,Sede de Sangue +,Soif de sang +,Жажда крови +,피에 굶주림 +
+IncreaseStatEvery2Levels,Potential to Not Suck,,Potencial para no desilusionar,潜力股,Potenzial zum Nicht-Versagen,Potencial Para Não Falhar,Pourra devenir utile,Шанс не проиграть,실패하지 않을 가능성
+InDebt,Debt,,Deuda,债务,Schulden,Dívida,Dette,Долг,빚
+InDebt2,Debt,,Deuda,债务,Schulden,Dívida,Dette,Долг,빚
+InDebt3,Debt,,Deuda,债务,Schulden,Dívida,Dette,Долг,빚
+CanBorrowMoney,Moocher,,Parásito,招摇撞骗,Schnorrer,Parasita,La taxe,Проситель,부랑자
+CantInteract,Pea-Brained,,Cerebro de chorlito,榆木脑袋,Erbsenhirn,Cérebro de Ervilha,Charisme d'huître,Безмозглый,바보
+Hypnotized,Hypnotized,,Hipnotizado,催眠大师,Hypnotisiert,Hipnotizado,Hypnotisé,Гипноз,최면에 걸림
+Haterated,Haterated,,Odiado,过街老鼠,Hasserfüllt,Odiado,La haiiiiiiine,Ненавистник,증오함
+TutorialAbility,Cry Profusely,,Llorar profusamente,嚎啕大哭,Doll weinen,Chorar Copiosamente,Torrent salé,Обильные слезы,실컷 울기
+Zombify,Zombiism,,Zombificar,僵尸化,Zombifizieren,Zumbificar,Zombifié,Зомбирование,좀비화
+ZombieArmy,Army of Five,,Ejercito de cinco,五人之军,Fünfer Armee,Arma de Fogo,Armée de cinq,Армия пяти,5인 부대
+EveryoneHatesZombie,Fair Game,,Juego justo,公平游戏,Faires Spiel,Jogo Justo,Cible universelle,Честная игра,공정한 게임
+GoodHealth,Good Health,,Buena salud,皮厚血高,Gute Gesundheit,Boa Energia,Bonne santé,Прекрасное здоровье,우수한 헬스
+Flatulence,Extreme Flatulence,,Flatulencia extrema,臭屁王,Extreme Blähungen,Flatulência Extrema,Pétomane capricieux,Метеоризм,극단적인 허세
+Wealth,Wealth,,Riqueza,富可敌国,Reichtum,Riqueza,Richesse,Богатство,부
+Wanted,Wanted,,Buscado,通缉犯,Gesucht,Procurado,Recherché,Разыскивается,수배
+BigMuscles,Big Muscles,,Grandes músculos,肌肉男,Große Muskeln,Grandes Músculos,Gros muscles,Большие мускулы,큰 근육
+RoidRage,Roid Rage,,Furia de Esteroides,类固醇癫狂症,Roid-Rage,Fúria de Esteroides,Rage de roïdes,Стероидная ярость,로이드 레이지
+SteroidWithdrawal,Steroid Withdrawal,,Retirada de esteroides,戒类固醇副作用,Steroid-Entzug,Suspensão dos Esteroides,Sevrage des stéroïdes,Абстиненция от стероидов,스테로이드 중단
+UnlockedDoors,Unlocked Doors,,Puertas sin llave,撬锁能手,Unverschlossene Türen,Portas Desbloqueadas,Portes déverrouillées,Открытые двери,잠금 해제된 문
+FindMoreGuns,More Guns,,Más armas,更多枪械,Mehr Waffen,Mais Pistolas,Plus de flingues,Больше оружия,추가 총
+,,,,,,,,,
+StrengthSmall,Strength (Small),,Fuerza (pequeños),力量（小）,Stärke (niedrig),Força (Pequeno),Force (légère),Сила (низкое),
+ClearAllTraits,Clear All,,Borrar Todo,全部清除,Alle löschen,Remover Todos,Réussissez tout,Убрать все,모두 지우기
+,,,,,,,,,
+KnockedOut,Knocked Out,,Noqueados,击昏,k.o. geschlagen,Nocauteado,Assomés,Нокаутировал,기절함
+KnockbackLess2,Unstoppable-ish,,Imparable (casi),势不可挡,Unaufhaltsam (so in der Art),Imparável,Inarrêtable-ou-presque,Типа неудержимость,막을 수 없는
+KnockWeapons,Ultimate Butterfinger-er,,Debilitador de dedos total,终极手无寸铁,Ultimatives Waffen runter,Estragador de Dedos Definitivo,Double main gauche le terrible,Всегда скользкие пальцы... у врага,궁극적인 버터 핑거러
+DestructionXP,Master of Disaster,,Maestro del desastre,灾难大师,Meister der Zerstörung,Mestre dos desastres,Maître des catastrophes,Стихийное бедствие,재해의 제왕
+Electrocuted,Electrocuted,,Electrocutado,电刑,Stromschlag,Eletrocutado,Électrocuté,Оглушение,전기 충격
+Wet,Wet,,Mojado,Wet,Wet,Molhado,Mouillé,Мокрый,젖은
+CannibalizeRestoresHealth,Strict Cannibal,,Caníbal estricto,严格食人者,Strenger Kannibale,Canibal Absoluto,Cannibale stricte,Ярый каннибализм,엄격한 살육
+OperateSlowly,Poor Hand-Eye Coordination,,Coordinación ojo-mano deficiente,手眼协调障碍,Schlechte Hand-Augen-Koordination,Pobre coordenação olho-mão,Mauvaise coordination main-œil,Плохая координация движений,눈과 귀 조화도 낮음
+RandomPeopleSecretHate,Ideological Clash,,Choque ideológico,意识形态冲突,Kampf der Ideologien,Confronto ideológico,Affrontement idéologique,Идеологические разногласия,이념적 충돌
+ZombieSpirit,DNA Connection,,Conexión de ADN,DNA连接,DNA-Verbindung,Conexão por DNA,Connexion génétique,Одна ДНК,DNA 연결
+DontHitOwnKind,Class Solidarity,,Solidaridad de clase,阶级有爱,Klassensolidarität,Solidariedade de classe,Solidarité des classes,Классовая солидарность,등급 단합
+FleshFeast,Flesh Feast,,Fiesta carnívora,人肉盛宴,Fleischfest,Banquete de carne,Festin charnel,Целебное насилие,고기 축제
+FleshFeast2,Flesh Feast +,,Fiesta carnívora +,人肉盛宴 +,Fleischfest +,Banquete de carne +,Festin charnel +,Целебное насилие +,고기 축제 +
+HatesBlahds,Blahd Basher,,Demoledor de Blahds,痛殴血帮,Blahd-Schläger,Blahd Batedor,Casseur de Blair,Кровяные говно,블라드 배셔
+HatesCrepes,Crepe Crusher,,Destructor de Crepes,痛殴瘸帮,Crepe-Zerstörer,Crepe triturador,Casseur de Crêpe,Невалидные отстой,크레페 크러셔
+UpperCrusty,Upper-Crusty,,Rico,上流社会,Privilegiertes Mitglied der Oberschicht,Classe Alta,Gratin,Богатей,어퍼 크러스티
+FleshFeast_Chinese,Health Drain,,,生命值吸取,,,,,
+Zombify_Chinese,Infectious,,,传染变异,,,,,
+Bloodlust_Chinese,Kill-Happy,,,杀人狂,,,,,
+Addict_Chinese,Power-Up Addiction,,,强化上瘾症,,,,,
+Withdrawal_Chinese,Power-Up Withdrawal,,,强化副作用,,,,,
+Nicotine_Chinese,Coughing Fit,,,咳嗽发作,,,,,
+AboveTheLaw_Chinese,Fun Allowed,,,为非作歹,,,,,
+CannibalizeRestoresHealth_Chinese,Strict Diet,,,严格饮食,,,,,
+ResistBulletsTrait,Bullet Sponge,,Esponja de balas,防弹海绵,Kugelschwamm,Esponja de Balas,Éponge à balles,Поглотитель пуль,총알 스폰지
+ResistBulletsTrait2,Bullet Sponge +,,Esponja de balas +,防弹海绵 +,Kugelschwamm +,Esponja de Balas +,Éponge à balles +,Поглотитель пуль +,총알 스폰지 +
+,,,,,,,,,
+HonorAmongThieves,Honor Among Thieves,,Honor entre ladrones,盗圣之名,Ehre unter Dieben,Honra entre ladrões,L'honneur entre voleurs,Уважение среди воров,도둑 중 명예
+HonorAmongThieves2,Honor Among Thieves +,,Honor entre ladrones +,盗圣之名 +,Ehre unter Dieben +,Honra entre ladrões +,L'honneur entre voleurs +,Уважение среди воров +,도둑 중 명예 +
+Ooze,Ooze,,Fluido,毒性粘浆,Schleim,Mutagênico,Vase,Жижа,습지
+Euphoric,Euphoric,,Eufórico,欣快,Euphorisch,Eufórico,Euphorique,Эйфория,큰 기쁨
+WerewolfAwareness,Werewolf A-Were-ness,,Detección de hombres lobo,狼人意识,Werwolf-Achtsamkeit,Percepção do Lobisomem,Loup-garou y es-tu,Чуйка на верфольфов,워울프 어워니스
+FeelingLucky,Feelin' Lucky,,Sentirse afortunado,幸运女神在微笑,Glückspilz,Sentindo-se com sorte,Coup d'chance,Везунчик,행운 같은
+FeelingUnlucky,Feelin' Unlucky,,Sentirse desafortunado,厄运女神在微笑,Pechvogel,Sentindo-se sem sorte,Coup d'malchance,Невезунчик,불행 같은
+ChanceAttacksDoZeroDamage,Un-Crits,,Anti-críticos,暴击无效,Nicht-kritisch,Anti-Críticos,Dur à cuir,Без крит. ударов,비 크릿
+ChanceAttacksDoZeroDamage2,Un-Crits +,,Anti-críticos +,暴击无效 +,Nicht-kritisch +,Anti-Críticos +,Dur à cuir +,Без крит. ударов +,비 크릿 +
+AttacksDamageAttacker,Prickly Skin,,Piel espinosa,尖刺皮肤,Stachelige Haut,Pele Espinhosa,Peau épineuse,Шипастая кожа,가시 피부
+AttacksDamageAttacker2,Prickly Skin +,,Piel espinosa +,尖刺皮肤 +,Stachelige Haut +,Pele Espinhosa +,Peau épineuse +,Шипастая кожа +,가시 피부 +
+,,,,,,,,,
+CauseBiggerKnockback,Knockback King,,Rey del retroceso,击退之王,Rückwurfkönig,Rei do Recuo,Roi du pain dans la face,Король отдачи,넉백 킹
+BlocksSometimesHit,Block Breaker,,Rompebloques,破防,Abwehrbrecher,Quebra Bloqueio,Casseur de garde,Разрушитель блоков,차단기
+BlocksSometimesHit2,Block Breaker +,,Rompebloques +,破防 +,Abwehrbrecher +,Quebra Bloqueio +,Casseur de garde +,Разрушитель блоков +,차단기 +
+MeleeHoldDeflectsBullets,Block Bullets,,Bloquear balas,子弹屏蔽,Kugelabwehr,Bloquear Balas,Pare-balles,Защита от пуль,차단 총알
+MeleeHoldDeflectsBullets2,Block Bullets +,,Bloquear balas +,子弹屏蔽 +,Kugelabwehr +,Bloquear Balas +,Pare-balles +,Защита от пуль +,차단 총알 +
+MeleeDestroysWalls,Wall Walloper,,Destructor de muros,破壁人,Mauerzerstörer,Batedor de Parede,Casseur de murs,Разрушитель стен,벽 월로퍼
+MeleeDestroysWalls2,Wall Walloper +,,Destructor de muros +,破壁人 +,Mauerzerstörer +,Batedor de Parede +,Casseur de murs +,Разрушитель стен +,벽 월로퍼 +
+ExplosionsDontDamageCauser,Blaster Survivor,,Sobreviviente de explosiones,爆炸幸存者,Explosionsüberlebender,Sobrevivente de Explosões,Survivant d'explosion,Любитель взрывов,블래스터 생존자
+ExplosionsBreakEverything,Blaster Master,,Maestro de explosiones,爆破大师,Explosionsmeister,Mestre das Explosões,Maître des explosions,Мастер взрывов,블래스터 마스터
+MoreAmmoInDroppedWeapons,Ammo Scavenger,,Buscador de municiones,弹药拾荒者,Munitionsplünderer,Caçador de Munição,Dénicheur de munitions,Добытчик боеприпасов,탄약 스캐빈저
+MoreAmmoInDroppedWeapons2,Ammo Scavenger +,,Buscador de municiones +,弹药拾荒者 +,Munitionsplünderer +,Caçador de Munição +,Dénicheur de munitions +,Добытчик боеприпасов +,탄약 스캐빈저 +
+ReloadWeaponsNewLevel,Lock and Load,,Inicio recargado,子弹上膛,Sichern und laden,Preparado e carregado,Prêt à en découdre,Ловкие руки,잠금 및 로드
+ReloadWeaponsNewLevel2,Lock and Load +,,Inicio recargado +,子弹上膛 +,Sichern und laden +,Preparado e carregado +,Prêt à en découdre +,Ловкие руки +,잠금 및 로드 +
+BulletsCauseFire,Burning Bullets,,Balas ardientes,燃烧的子弹,Feuerkugeln,Balas Ardentes,Balles brûlantes,Горючие пули,불타는 총알
+BulletsPassThroughObjects,Penetrating Bullets,,Balas penetrantes,破甲子弹,Durchdringende Kugeln,Balas Penetrantes,Balles pénétrantes,Проникающие пули,침투 총알
+BulletsDestroyOtherBullets,Bullet Breaker,,Rompebalas,子弹粉碎器,Kugelbrecher,Quebra Bala,Kata du tir,Разрушитель пуль,총알 차단기
+OperateSecretly,Sneaky Fingers,,Dedos sigilosos,鬼祟身影,Geheimoperation,Dedos Sorrateiros,Doigts furtifs,Коварные пальцы,부적절한 손가락
+TeleportAnytime,Teleport-Happy,,Teletransportador,随意传送,Teleportierglück,Festa de Teletransporte,Téléportagogo,Телепортировщик,텔레포트-해피
+HitObjectsNoNoise,Secret Vandalizer,,Vandalizador sigiloso,秘密破坏狂,Heimlicher Randalierer,Vândalo Secreto,Vandalisme discret,Тайный вандал,비밀 파괴자
+ThiefToolsMayNotSubtract,Intrusion Artist,,Artista de la intrusión,入侵艺术家,Einbruchskünstler,Artista da Intrusão,Virtuose de l'intrusion,Мастер проникновения,침입 아티스트
+ThiefToolsMayNotSubtract2,Intrusion Artist +,,Artista de la intrusión +,入侵艺术家 +,Einbruchskünstler +,Artista da Intrusão +,Virtuose de l'intrusion +,Мастер проникновения +,침입 아티스트 +
+RandomPeopleAligned,Random Reverence,,Alineaciones aleatorias,随机崇敬,Zufällige Ehrfurcht,Reverência Aleatória,Révérence aléatoire,Случайные друзья,랜덤 존경
+RandomPeopleAligned2,Random Reverence +,,Alineaciones aleatorias +,随机崇敬 +,Zufällige Ehrfurcht +,Reverência Aleatória +,Révérence aléatoire +,Случайные друзья +,랜덤 존경 +
+MoreFollowersLessDamageToPlayer,Safe in Crowds,,A salvo en las multitudes,人多更安全,Sicher in der Masse,Seguro em Multidões,Sécurité de la foule,В толпе безопаснее,군중 속 안전
+MoreFollowersLessDamageToPlayer2,Safe in Crowds +,,A salvo en las multitudes +,人多更安全 +,Sicher in der Masse +,Seguro em Multidões +,Sécurité de la foule +,В толпе безопаснее +,군중 속 안전 +
+MoreFollowersCauseMoreDamage,Confident in Crowds,,Confiado en las multitudes,人多力量大,Selbstbewusst in der Masse,Confiante nas Multidões,Confiance de la foule,В толпе спокойнее,군중 속 자신감
+MoreFollowersCauseMoreDamage2,Confident in Crowds +,,Confiado en las multitudes +,人多力量大 +,Selbstbewusst in der Masse +,Confiante nas Multidões +,Confiance de la foule +,В толпе спокойнее +,군중 속 자신감 +
+AgentsFollowToNextLevel,Homesickness Killer,,Siempre acompañado,思乡杀手,Heimwehkiller,Matando a Saudade,Tueur du mal du pays,Борьба с тоской по дому,향수병 킬러
+HealthItemsGiveFollowersExtraHealth,Share the Health,,Comparte la salud,共享生命,Gesundheitsteiler,Compartilhar Energia,Partage de santé,Раздача здоровья,건강 공유
+HealthItemsGiveFollowersExtraHealth2,Share the Health +,,Comparte la salud +,共享生命 +,Gesundheitsteiler +,Compartilhar Energia +,Partage de santé +,Раздача здоровья +,건강 공유 +
+CannibalsNeutral,Cool with Cannibals,,Amigo de caníbales,与食人者相安无事,Kannibalenfreundschaft,Amizade com Canibais,Ami des cannibales,Не против каннибалов,식인종과 멋지게
+MafiaAligned,Friend of the Family,,Amigo de la famiglia,家族之友,Freund der Familie,Amigo da Família,Proche de la famille,Коза Ностра,가족의 친구
+ChanceFreeShopItem,On the House,,Por cuenta de la casa,免费赠品,Geht aufs Haus,Por conta da casa,Tournée du patron,За счёт заведения,집에서
+ChanceFreeShopItem2,On the House +,,Por cuenta de la casa +,免费赠品 +,Geht aufs Haus +,Por conta da casa +,Tournée du patron +,За счёт заведения +,집에서 +
+MoneyAtLevelStart,Trust Funder,,Bien financiado,信托基金人,Treuhandfonds,Bem Financiado,Levée de fonds,Трастовый фонд,트러스트 펀드 투자자
+MoneyAtLevelStart2,Trust Funder +,,Bien financiado +,信托基金人 +,Treuhandfonds +,Bem Financiado +,Levée de fonds +,Трастовый фонд +,트러스트 펀드 투자자 +
+VendorsDropShopItem,Shop Drops,,Vendedores soltadores,商店掉落,Händlerfall,Itens da Loja,Secret de marchand,Магазинные подачки,샵 드랍스
+VendorsDropShopItem2,Shop Drops +,,Vendedores soltadores +,商店掉落 +,Händlerfall +,Itens da Loja +,Secret de marchand +,Магазинные подачки +,샵 드랍스 +
+BumpsDontEndCamouflage,Slinky,,Escondido a plena vista,持续伪装,Tarnkünstler,Escondidinho,Anguille,Изящные движения,슬링키
+FailedAttacksDontEndCamouflage,Vicious Chameleon,,Camaleón cruel,邪恶变色龙,Teuflisches Chamäleon,Camaleão Cruel,Caméléon vicieux,Злобный хамелеон,사악한 카멜레온
+FasterCharge,Sprinter,,Velocista,冲刺,Sprinter,Velocista,Sprinter,Спринтер,단거리 선수
+ChargeMorePowerful,Tackler,,Tacleador,铲球,Angreifer,Enfrentador,Cartouche,Хорошая подготовка,태클러
+ChargeNoTrip,Low Center of Gravity,,Bajo centro de gravedad,低底盘,Niedriger Schwerpunkt,Baixo centro de gravidade,Centre de gravité bas,Низкий центр тяжести,중력의 낮은 중심
+ChargeNoHealthLoss,Juggernaut,,Imparable,主宰,Moloch,Imparável,Jaggernaut,Неумолимая сила,절대적인 힘
+CannibalizeFaster,Fast Food,,Comida rápida,快餐,Fast Food,Lanchinho Rápido,Macdalle,Фастфуд,패스트푸드
+CannibalizeMoreHealth,Savorer,,Devorador,吞噬者,Genießer,Devorador,Gastronome,Гурман,구원자
+CannibalizeNoAnnoy,Table Manners,,Modales de mesa,餐桌礼仪,Tischmanieren,Modos à Mesa,Esthète de la fourchette,Приличные манеры,테이블 매너
+JokesNeverCauseHate,Eggshell Walker,,Bromista al límite,蛋壳行者,Eierschalen-Läufer,Pisando em Ovos,Humour consensuel,По тонкому льду,에그쉘 워커
+JokesMoreSuccessful,Feature Act,,Humorista exitoso,故事戏剧,Witzeerzähler,Humorista Especialista,Humour grand public,Острый язык,특징적 행동
+JokesAlwaysSuccessful,Feature Act +,,Humorista exitoso +,故事戏剧 +,Witzeerzähler +,Humorista Especialista +,Humour grand public +,Острый язык +,특징적 행동 +
+LessArrestXPLoss,Crooked,,Corrupto,瞒天过海,Krumme Dinger,Corrupto,Pourri,Скользкая особа,삐뚤어진
+NoArrestXPLoss,Crooked +,,Corrupto +,瞒天过海 +,Krumme Dinger +,Corrupto +,Pourri +,Скользкая особа +,삐뚤어진 +
+FasterLunge,Impatient Lunge,,Embestida impaciente,突飞猛进,Ungeduldiger Überraschungsangriff,Ataque Impaciente,Ruée impatiente,Нетерпеливый выпад,성급한 돌진
+HackImmediate,Speed Coder,,Programador de alta velocidad,高速编码,Schnellcodierer,Programador Veloz,Codeur éclair,Хак на скорость,스피드 코더
+HackingMakesNoSound,Foolproof Hacks,,Hackeos sigilosos,入侵保险,Idiotensichere Hacks,Hacks Infalíveis,Piratages imparables,Безопасные хаки,풀프루프 해킹
+HacksBlowUpObjects,Cyber Nuke,,Ciberbomba,网络核弹,Cyberbombe,Ciber Bomba,Cyber bombe,Кибербомба,사이버 핵무기
+PossessShorterCooldown,Body-Swapper,,Cambiacuerpos,身体交换,Körperwechsler,Troca-Corpo,Échangeur de corps,Сменщик тел,보디 스와퍼
+NoDepossessHealthLoss,No Harm in Dying,,La muerte le sienta bien,无伤死亡,Sterben ist kein Problem,Não há nada de mau em morrer,La mort vous va si bien,Смерть без вреда,죽어도 해가 없다
+NoPossessHate,Possessions are Peachy Keen,,Posesiones amistosas,附身无忧,Besitzergreifen ist total ok,Possessões Tranquilas,"La possession, ça vous gagne",Пусть отдохнут от себя,소유물은 피치 킨
+SlavesDontMutiny,Benevolent Owner,,Propietario benevolente,仁慈的主人,Gutmütiger Besitzer,Proprietário Benevolente,Propriétaire bienveillant,Добрый хозяин,자비로운 소유자
+BiggerSlaveHelmetExplosions,Destructive Deaths,,Muertes destructivas,破坏性死亡,Zerstörerische Todesfälle,Mortes Destrutivas,Morts destructrices,Разрушительная смерть,파괴적인 죽음
+LegalEnslavement,Legal Enslavement,,Esclavitud legal,合法奴役,Legale Versklavung,Escravidão Legal,Esclavagisme légal,Законное рабовладение,법적 노예 생활
+AgentsDontSeePickpocket,Covert Crook,,Ladrón sigiloso,秘密老千,Verdeckter Gauner,Bandido Discreto,Pourri discret,Скрытная особа,은밀한 사기꾼
+BiteFaster,Chipmunk Teeth,,Dientes de ardilla,鼠牙,Streifenhörnchenzahn,Dentes de Esquilo,Dents de hamster,Бурундучьи зубы,다람쥐 이빨
+BiteGainMoreHealth,Vein Tapper,,Buscavenas,静脉水龙头,Venenanzapfer,Explorador de Veias,Intraveinard,Чужие вены как свои,정맥 마개
+BiteNoAnnoy,They're Just Kissing,,Sólo están besándose,亲密热吻,Sie küssen nur,Eles só estão se beijando,C'est juste un bisou,Они просто целуются,그들은 키스 중.
+BiteFullHealth,Bottomless Stomach,,Estómago sin fondo,饕餮巨胃,Bodenloser Magen,Estomago Sem Fundo,Gorge profonde,Бездонный желудок,대식가
+WerewolfLastLonger,Killing Time,,Matando el tiempo,消磨时间,Zeit totschlagen,Matando o Tempo,C'est l'heure de tuer,Время убивать,시간 죽이기
+WerewolfShorterCooldown,Restless Beast,,Bestia inquieta,不眠野兽,Rastloses Ungeheuer,Fera Inquieta,Bête infatigable,Неприкаянная тварь,무기력한 짐승
+WerewolfNoDizzy,Steady Head,,Cabeza firme,神志清醒,Harte Nuss,Cabeça Firme,La tête sur les épaules,Чугунная голова,꾸준한 머리
+FasterZombieSpitCharge,Swift Spitter,,Escupidor veloz,迅捷分裂,Schnellspucker,Cuspidor Rápido,Cracheur rapide,Родня верблюдам,스위프트 스피터
+NoZombieSpitHealthLoss,Throat of Iron,,Garganta de lata,钢铁之喉,Eisenkehle,Garganta de Ferro,Gorge d'acier,Луженая глотка,아이언 목구멍
+NoChloroformCooldown,Subduing Spree,,Sometimiento instantáneo,抑制狂欢,Absolute Unterwerfung,Submissão Instantânea,Marchand de sable,Всем спокойствие,울부 짖는 소리
+ZombiesFaster,Quick and Dead,,Rápido y muerto,迅捷亡者,Schnell und tot,Rápido e Morto,Aussi rapide que mort,Быстрые мертвецы,퀵 앤 데드
+ZombiesStronger,Inhuman Strength,,Fuerza inhumana,非人之力,Unmenschliche Stärke,Força Sobre-humana,Force inhumaine,Нечеловеческая сила,비인간적인 힘
+EnemiesDieWhenFleeing,Heart-Stopper,,Paro cardíaco,心脏阻塞,Herzstillstand,Parador de Corações,Crise cardiaque,Истребитель сердец,심장 스토퍼
+BuffFromMultipleKills,Rampager,,Furia sanguinaria,狂暴,Randalierer,Fúria Sanguinolenta,Sauvage,Тихая ярость,램페이저
+BulletKnockouts,Rubber Bullets,,Balas de goma,橡胶子弹,Gummigeschosse,Balas de Borracha,Balles en caoutchouc,Резиновые пули,고무 총알
+FireproofSkin,Fireproof Skin,,Piel ignífuga,防火皮肤,Feuerfeste Haut,Pela à Prova de Fogo,Peau ignifuge,Огнестойкая кожа,내화성 피부
+FireproofSkin2,Fireproof Skin +,,Piel ignífuga +,防火皮肤 +,Feuerfeste Haut +,Pela à Prova de Fogo +,Peau ignifuge +,Огнестойкая кожа +,내화성 피부 +
+FightsFires,Scorching Savior,,Ardiente salvador,灼热救世主,Flammenretter,Salvador Ardente,Sauveur des flammes,Спаситель с огоньком,뜨거운 구원자
+StrongerWaterCannon,Riot Cannon,,Cañón antidisturbios,防暴大炮,Kampfkanone,Canhão de Motim,Hydrocanon,Полицейский водомет,라이엇 대포
+FireExtinguishXP,Inferno Assailant,,Agresor del infierno,地狱火暴徒,Infernoangreifer,Atacante do Inferno,Pompier militant,Боевик из пекла,인페르노 공격자
+ResurrectionAllies,Smith,,Agente Smith,特工史密斯,Agent Smith,Agente Smith,Recruteur zélé,Смит,스미스
+WaterGivesBuff,Rejuvenating Water,,Agua rejuvenecedora,活力水源,Verjüngendes Wasser,Água Rejuvenescedora,Eau fortifiante,Омолаживающая вода,원기 회복수
+CantWearArmor,Unconventional Body Type,,Tipo de cuerpo no convencional,非常规体型,Unkonventioneller Körpertyp,Tipo de corpo não convencional,Corpulence non conventionnelle,Необычное телосложение,비전통적 신체 유형
+Glutton,Glutton,,Glotón,馋嘴猫,Vielfraß,Glutão,Glouton,Обжора,대식가
+FoodWithdrawal,Starving,,Famélico,忍饿挨饥,Verhungern,Morrendo de Fome,Affamé,Впроголодь,굶주리는
+FeelinFull,Feelin' Full,,Sentirse lleno,吃饱了,Sättigung,Sentindo-se Cheio,Repu,Желудок полон,배부른
+TranqDartsWorkFaster,Quick Tranq,,Dardos tranquilizantes rápidos,快速镇静剂,Schnellbetäubung,Tranquilizantes Velozes,Tranquillisant éclair,Быстрое успокоение,퀵 트랭크
+StandingStillCausesCamouflage,Cardboard Box-Like,,Como caja de cartón,临时伪装,Professioneller Karton,Como uma Caixa de Papelão,Boîte en carton de professionnel,Человек — картонная коробка,골판지 상자처럼
+ChallengeAnyoneToFight,Honorable Challengees,,Desafiados honorables,荣誉挑战,Ehrenwerte Herausgeforderte,Desafios de Honra,Duelliste honorable,Вызывает уважение,존경할만한 도전과제
+FeelingGoodPositiveEffects,Lit,,Iluminado,坚守不退,Erleuchtet,Iluminado,"Je vais bien, tout va bien",В приподнятом настроении,문학
+HigherWerewolfSpeed,Swift Wolf,,Lobo veloz,速狼,Flinker Wolf,Lobo Rápido,Loup rapide,Быстроногий волк,스위프트 울프
+HigherWerewolfDamage,Rip and Tear,,Rasgar y romper,撕咬,Aufreißen und zerfetzen,Rasgar e Arrancar,De griffes et de crocs,Рвать и метать,찢고 찢기고
+ResearchGunStatusEffects,Research Gun Radiation,,Radiación de arma experimental,实验枪的辐射,Forschungsgewehr-Verstrahlung,Radiação de Arma Experimental,Radiation de flingue expérimental,Радиоактивное оружие,리서치 건 방사선
+SlavesFightForYou,Steadfast Slaves,,Esclavos firmes,坚定的奴隶,Treue Sklaven,Escravos Firmes,Esclaves inébranlables,Преданные рабы,변함 없는 노예
+PickpocketMoreMoney,Deeper Pockets,,Bolsillos profundos,更深的口袋,Tiefere Taschen,Bolsos Profundos,Poches vraiment profondes,Глубокие карманы,깊은 주머니
+,,,,,,,,,
+EnduranceTrait,Endurance +,,Resistencia +,耐力 +,Ausdauer +,Resistência +,Endurance +,Выносливость +,지구력 +
+SpeedTrait,Speed +,,Velocidad +,速度 +,Geschwindigkeit +,Velocidade +,Vitesse +,Скорость +,속도 +
+AccuracyTrait,Firearms +,,Precisión +,精准度 +,Genauigkeit +,Precisão +,Précision +,Точность +,정확도 +
+StrengthTrait,Melee +,,Fuerza +,力量 +,Stärke +,Força +,Force +,Сила +,강도 +
+,,,,,,,,,
+CannibalsNeutral_Chinese,Cool with Maniacs,,,与疯子相安无事,,,,,
+,,,,,,,,,
+,,,,,,,,,
+BlockDebuffs,Stable System,,Sistema estable,稳定系统,Stabiles System,Sistema Estável,Système stable,Устойчивая система,시스템 안정화
+Revenue,Revenue,,Ingresos,收入,Einnahmen,Renda,Revenus,Прибыль,수익
+OweCops1,Cop Debt,,Deuda policial,警察债务,Cop-Schulden,Dívida Policial,Flic corrompu,Долг копу,경찰 부채
+OweCops2,Cop Debt (Hostile),,Deuda policial (hostil),警察债务（有敌意）,Cop-Schulden (feindlich),Dívida Policial (Hostil),Flic corrompu (Hostile),Долг копу (Враждебный),경찰 부채 (적대)
+MustPayCops,Corruption Costs,,Costes de corrupción,腐败代价,Korruptionskosten,Subornos,Pot-de-vin,Взятка,타락의 비용
+Shakedowner,Extortionist,,Extorsionador,勒索者,Erpresser,Chantagista,Extorqueur,Вымогатель,착취자
+Shakedowner2,Extortionist +,,Extorsionador +,勒索者+,Erpresser +,Chantagista +,Extorqueur +,Вымогатель +,착취자 +
+Mugger,Mugger,,Atracador,抢劫者,Straßenräuber,Ladrão,Agresseur,Гопник,노상강도
+Mugger2,Mugger +,,Atracador +,抢劫者+,Straßenräuber +,Ladrão +,Agresseur +,Гопник +,노상강도 +
+MoreHealthFromPowerSap,Sappy-Healthy,,Descarga saludable,吸耗生命,Saftig-Gesund,Seiva Viva,Requinqué,Энерговсплеск,넘치는 체력
+MoreDamagePowerSap,Sap Damage,,Descarga dolorosa,吸耗伤害,Saftschaden,Dano de Seiva,Dégâts d'absorption,Истощающий урон,흡수 피해량
+Rechargeable,Rechargeable,,Recargable,充电电池,Wiederaufladbar,Recarregável,Rechargeable,Перезарядка,재충전
+Rechargeable2,Rechargeable +,,Recargable +,充电电池+,Wiederaufladbar +,Recarregável +,Rechargeable +,Перезарядка +,재충전 +
+Electronic,Electronic,,Electrónico,电子设备,Elektronisch,Eletrônico,Électronique,Электроника,전자력
+ChargeLevel1,Charge Level 1,,Nivel de carga 1,电量1,Ladestufe 1,Nível de Carga 1,Charge Niveau 1,Уровень заряда 1,충전 레벨 1
+ChargeLevel2,Charge Level 2,,Nivel de carga 2,电量2,Ladestufe 2,Nível de Carga 2,Charge Niveau 2,Уровень заряда 2,충전 레벨 2
+ChargeLevel3,Charge Level 3,,Nivel de carga 3,电量3,Ladestufe 3,Nível de Carga 3,Charge Niveau 3,Уровень заряда 3,충전 레벨 3
+ChargeLevel4,Charge Level 4,,Nivel de carga 4,电量4,Ladestufe 4,Nível de Carga 4,Charge Niveau 4,Уровень заряда 4,충전 레벨 4
+Bodyguard,Bodyguard,,Guardaespaldas,保镖,Leibwächter,Guarda-costas,Garde du corps,Телохранитель,경호원
+RollerSkates,Roller Skates,,Patines,溜冰鞋,Rollschuhe,Patins,Rollers,Ролики,롤러 스케이트
+RollerSkates2,Roller Skates +,,Patines,溜冰鞋,Rollschuhe,Patins,Rollers,Ролики,롤러 스케이트
+DeliverPackage,Package Delivery,,Reparto del paquete,包裹递送,Paketzustellung,Entrega de Pacote,Livraison de paquet,Доставка,패키지 배달
+OwnersNotHostile,Wrong Building,,Edificio equivocado,错误建筑,Falsches Gebäude,Edifício Errado,Erreur de bâtiment,Не по адресу,틀린 건물
+CantAttack,Harmless,,Inofensivo,无害,Harmlos,Inofensivo,Inoffensif,Безобидный,무해함
+AttacksOneDamage,Near-Harmless,,Casi inofensivo,近乎无害,Nah-Harmlos,Quase Inofensivo,Quasi-inoffensif,Почти безобидный,거의 무해함
+BigCollider,Bulky,,Aparatoso,庞大,Sperrig,Parrudo,Encombrant,Огромный,덩치
+OilRestoresHealth,Oil Reliant,,Necesita combustible,燃油依赖,Ölabhängig,À base de óleo,Essence essentielle,Бензинозависимость,기름 전용
+CantTeleport,No Teleports,,Sin teletransportes,没有瞬间移动,Keine Teleports,Sem Teletransporte,Pas de téléportations,Нет телепортов,텔레포트 불가
+MindControlled,Mind Controlled,,Controlado mentalmente,受到精神控制,Gedanken kontrolliert,Mente Controlada,Contrôlé mentalement,Зомбированный,정신 지배당함
+MindControlling,Mind Controlling,,Controlador mental,正进行精神控制,Kontrolliert Gedanken,Controla Mentes,Contrôlant mentalement,Контролирование разума,정신 지배 중
+CopsDontCare,Cops Don't Care,,Indiferencia policial,警察并不在意,Ist den Cops egal,A Polícia Não Liga,Les flics s'en fichent,Копам все равно,무관심한 경찰
+StompLessDamage,Safe Stomp,,Pisotón seguro,安全踩踏,Tresor-Stampfer,Pisada Segura,Piétinement sécurisé,Тихий топот,안전한 짓밟기
+StompDamagesAgents,Aftershocked,,Temblor secundario,遭遇余震,Nachbeben,Abalado,Après-choc,Потрясение,여진
+BiggerStompRadius,Good Vibrations,,Buenas vibras,良好振动,Gute Stimmung,Boas Vibrações,Bonnes vibes,Сильные вибрации,훌륭한 진동
+MusicianTakesLessHealth,Blood of Steel,,Sangre de acero,钢铁之血,Blut aus Stahl,Sangue de Aço,Sang d'acier,Стальная кровь,강철의 피
+MoreMoneyFromDeliveries,Surging,,Propinas,激增,Steigend,Maré Alta,Bonne paye,Чаевые,호황
+MoreTimeForDeliveries,Leisurely Ride,,Reparto relajante,悠闲旅程,Gemächliche Fahrt,Passeio Tranquilo,Course pépère,Неспешная поездка,느긋한 라이딩
+LowerCostRemoteBombs,Bomb Baker,,MacGyver,炸弹烘焙师,Bombenbastler,Bombista,Artificier,Пиротехник,폭탄 제작자
+BigRemoteBombExplosions,Big Bang,,Big Bang,大爆炸,Urknall,Big Bang,Big Bang,Большой взрыв,빅뱅
+NPCsDontNoticeRemoteBombs,Sneaky Bomber,,Artificiero sigiloso,潜行投弹手,Gewiefter Bomber,Bombista Furtivo,Bombeur discret,Неуловимый подрывник,은밀한 폭탄마
+LaserMorePowerful,Power Lasers,,Láser potente,强力激光,Powerlaser,Laser de Energia,Lasers puissants,Мощные лазеры,강력한 레이저
+LaserGunChargesFaster,Blazing Lasers,,Láseres fugaces,炽热激光,Feuerlaser,Lasers de Fogo,Lasers express,Молниеносные лазеры,불타는 레이저
+OilRestoresMoreHealth,Oil Less Essential,,Aceites esenciales,燃油重要性降低,Öl weniger essentiell,Requer Menos Óleo,Essence de vie,Меньше бензина,기름 필수
+BiggerMindControlRadius,Groupies,,Groupies,狂热追随者,Groupies,Fãs,Groupies,Столпотворение,군중
+MindControlledDamageMore,Puppet Power,,Marioneta asesina,傀儡威力,Puppenpower,Energia de Fantoche,Pouvoir de marionnettes,Яростные марионетки,꼭두각시의 힘
+MindControlledResistDamage,Thick-Skinned Pawn,,Peón resistente,厚脸皮人质,Dickhäuter,Peão Casca-grossa,Pions résistants,Толстокожие пешки,두꺼운 피부의 졸개
+MindControlledWalkThroughWalls,Power Walkers,,Caminantes espectrales,强力行者,Powerwalkers,Errante Energético,Passe-partout,Безудержные ходоки,강력한 걸음걸이
+MechHateTrait,Scumbag Slaughterer,,Aplastaescoria,人渣屠戮者,Drecksackschlächter,Matador Desprezível,Assassin d'ordures,Гроза преступности,쓰레기 학살자
+,,,,,,,,,
+CopsDontCare_Chinese,Enforcers Don't Care,,,执法者并不在意,,,,,
+teststatuseffect,xx,,,,,,,,
